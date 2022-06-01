@@ -18,4 +18,16 @@
 		"**/.svn": true,
 		"**/CVS": true,
 	},
+	"files.associations": {
+		"*.json": "jsonc"
+	},
+	"[jsonc]": {
+		"editor.quickSuggestions": {
+			"strings": true
+		},
+		"editor.suggest.insertMode": "replace",
+		"gitlens.codeLens.scopes": [
+			"document"
+		]
+	},
 }
