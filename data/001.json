@@ -1,0 +1,18 @@
+{
+	"name": "OpenSS13",
+	"relations": [
+		{
+			"name": "Space Station 13",
+			"type": "parrent",
+			"meta": {
+				"inherit_all": true
+			}
+		}
+	],
+	"note": "Source Leak 2008/03.",
+	"meta": {
+		"migrated_commit": "f759e67563",
+		"added_by": "CthulhuOnIce",
+		"add_date": "2019-09-07T19:22:34Z"
+	}
+}
