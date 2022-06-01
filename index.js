@@ -12,10 +12,16 @@ if (jsonData == 'Error') {
 	process.exit();
 }*/
 
+//import jsdom from 'jsdom';
+//import * as d3 from 'd3';
+
+//const d3 = require("d3"); //v3, not v7
+
 const fs = require('fs');
 const path = require('path'); //base_path = path.resolve();
 const base_path = process.cwd();
-const target = base_path + '\\data\\'
+const target = base_path + '\\data\\';
+
 
 function init() {
 	let _names = fs.readdirSync(target)
