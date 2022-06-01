@@ -1,0 +1,19 @@
+{
+  "name": "ss13-projects-data",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r \t<h2 align=\"center\">\r \t\t<a href=\"https://github.com/SS13HUB/ss13-projects-data\">SS13 Projects data</a>\r \t</h2>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SS13HUB/ss13-projects-data.git"
+  },
+  "author": "Gesugao-san",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SS13HUB/ss13-projects-data/issues"
+  },
+  "homepage": "https://github.com/SS13HUB/ss13-projects-data#readme"
+}
