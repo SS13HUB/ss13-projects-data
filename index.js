@@ -48,13 +48,24 @@ function data_lint(data) {
 	let unaccepted = {};
 	for (const [project_id, project_data] of Object.entries(data)) {
 		let reason = '';
-		if ((typeof project_data.name !== 'string') || (project_data.name.length == 0)) reason += 'name;';
-		if (typeof project_data.relations !== 'object') reason += 'relations;';
-		if (typeof project_data.note !== 'string') reason += 'note;';
-		if (typeof project_data.meta !== 'object') reason += 'meta;';
-		if (typeof project_data.meta.migrated_commit !== 'string') reason += 'meta.migrated_commit;';
-		if (typeof project_data.meta.added_by !== 'string') reason += 'meta.added_by;';
-		if (typeof project_data.meta.add_date !== 'string') reason += 'meta.add_date;';
+		if ((typeof project_data.name !== 'string') || (project_data.name.length == 0)) reason += 'name; ';
+		if ( typeof project_data.relations !== 'object') reason += 'relations; '; // 'array'
+		if ( typeof project_data.note !== 'string') reason += 'note; '; // || (relation.name.length == 0)
+		if ( typeof project_data.meta !== 'object') reason += 'meta; ';
+		if ( typeof project_data.meta.migrated_commit !== 'string') reason += 'meta.migrated_commit; '; //  || (relation.meta.migrated_commit == 0)
+		if ((typeof project_data.meta.added_by !== 'string') || (project_data.meta.added_by == 0)) reason += 'meta.added_by; ';
+		if ( typeof project_data.meta.add_date !== 'string') reason += 'meta.add_date; '; // || (relation.meta.add_date == 0)
+		for (let i = 0; i < project_data.relations.length; i++) {
+			const relation = project_data.relations[i];
+			if ((typeof relation.name !== 'string') || (relation.name.length == 0)) reason += 'relation.name; ';
+			if ((typeof relation.type !== 'string') || (!Array('parent', 'pin', 'red').includes(relation.type))) reason += 'relation.type; ';
+			if ( typeof relation.note !== 'string') reason += 'relation.note; ';
+			if ( typeof relation.meta !== 'object') reason += 'relation.meta; ';
+			if ( typeof relation.meta.inherit_all !== 'boolean') reason += 'relation.meta.migrated_commit; ';
+			if ( typeof relation.meta.migrated_commit !== 'string') reason += 'relation.meta.migrated_commit; ';
+			if ((typeof relation.meta.added_by !== 'string') || (relation.meta.added_by == 0)) reason += 'relation.meta.added_by; ';
+			if ( typeof relation.meta.add_date !== 'string') reason += 'relation.meta.add_date; ';
+		}
 		if (reason.length > 0) unaccepted[project_id] = {project_data, reason};
 	}
 	return unaccepted;
@@ -92,6 +103,34 @@ function require_project(project_id) {
 	return require(target_path + project_id + target_ext) || false;
 }
 
+// http://stackoverflow.com/a/25500462/8175291
+function dict_sort(dict) {
+	// Create items array
+	var items = Object.keys(dict).map((key) => {
+		return [key, dict[key]];
+	});
+
+	// Sort the array based on the second element
+	items.sort((first, second) => {
+		return second[1] - first[1];
+	});
+	var items2 = []
+	for (let i = 0; i < items.length; i++) {
+		items2.push([items[i][1], items[i][0]]);
+	}
+
+
+	// Create a new array with only the first 5 items
+	//console.log(items.slice(0, 5));
+
+	/* var dict_sorted = {}
+	for (let i = 0; i < items.length; i++) {
+		dict_sorted[items[i][0]] = items[i][1];
+	}
+	console.log(dict_sorted); */
+	return items2;
+}
+
 async function main() {
 	console.clear();
 	console.log('Hi');
@@ -100,8 +139,8 @@ async function main() {
 	console.log('target_path:', target_path);
 	console.log('target_ext:', target_ext);
 
-	const jsonData = require_project('000');
-	console.log('jsonData:', jsonData);
+	//const jsonData = require_project('000');
+	//console.log('jsonData:', jsonData);
 
 	const _out = read_files(target_path);
 	console.log('_out:', _out);
@@ -109,9 +148,12 @@ async function main() {
 	const score = get_score(_out);
 	console.log('get_score 1:', score);
 
+
 	const _out2 = read_files(target_path + 'outsourcing\\');
 	const score2 = get_score(_out2);
-	console.log('get_score 2:', score2);
+	let score2_sorted = {'adders': dict_sort(score2.adders), 'relations_count': dict_sort(score2.relations_count)};
+	console.log('get_score 2 sort:', score2_sorted);
+
 
 	const unaccepted = data_lint(_out);
 	console.log('unaccepted 1:', unaccepted);
