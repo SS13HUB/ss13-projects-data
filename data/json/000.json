@@ -4,8 +4,12 @@
 		{
 			"name": "_root_",
 			"type": "pin",
+			"note": "",
 			"meta": {
-				"inherit_all": true
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "",
+				"add_date": ""
 			}
 		}
 	],

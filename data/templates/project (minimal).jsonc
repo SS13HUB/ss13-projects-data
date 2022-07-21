@@ -3,7 +3,7 @@
 	"relations": [
 		{
 			"name": "_relation_project_name_",
-			"type": "parrent/pin", // "child" type disallowed to prevent mess
+			"type": "parrent/pin/red", // "child" type disallowed to prevent mess
 			"note": "Manual note in free form.",
 			"meta": { // "*" in specified fields
 				"inherit_all": false, // inherit from meta below
