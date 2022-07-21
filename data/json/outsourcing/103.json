@@ -4,6 +4,7 @@
 		{
 			"name": "United Kingdom of Soviet Station 13",
 			"type": "parent",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

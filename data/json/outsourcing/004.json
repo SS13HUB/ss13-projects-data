@@ -3,7 +3,8 @@
 	"relations": [
 		{
 			"name": "/tg/Station (AGPL)",
-			"type": "parrent",
+			"type": "parent",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

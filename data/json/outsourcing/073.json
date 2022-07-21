@@ -4,6 +4,7 @@
 		{
 			"name": "Goonstation (2016 Release)",
 			"type": "parent",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

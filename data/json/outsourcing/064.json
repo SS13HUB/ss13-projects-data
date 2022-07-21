@@ -4,6 +4,7 @@
 		{
 			"name": "Digital Marines: Colonial Aliens (DM;CA)",
 			"type": "red",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

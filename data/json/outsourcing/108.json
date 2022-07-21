@@ -4,6 +4,7 @@
 		{
 			"name": "Yawn Wider",
 			"type": "parent",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

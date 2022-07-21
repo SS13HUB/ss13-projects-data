@@ -4,6 +4,7 @@
 		{
 			"name": "Rebay (mix of Bay, Luna, TG)",
 			"type": "parent",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

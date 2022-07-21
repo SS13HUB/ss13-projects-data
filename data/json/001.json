@@ -3,12 +3,12 @@
 	"relations": [
 		{
 			"name": "Space Station 13",
-			"type": "parrent",
+			"type": "parent",
 			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",
-				"added_by": "",
+				"added_by": "CthulhuOnIce",
 				"add_date": ""
 			}
 		}

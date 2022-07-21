@@ -4,6 +4,7 @@
 		{
 			"name": "OpenSS13",
 			"type": "parent",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

@@ -4,6 +4,7 @@
 		{
 			"name": "/tg/Station (GPLv3)",
 			"type": "red",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

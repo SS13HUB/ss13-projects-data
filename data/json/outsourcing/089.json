@@ -4,6 +4,7 @@
 		{
 			"name": "Original «SS13» \n(Pre-open)",
 			"type": "parent",
+			"note": "",
 			"note": "Note1",
 			"meta": {
 				"inherit_all": true,
@@ -15,6 +16,7 @@
 		{
 			"name": "Original «SS13» \n(Pre-open)",
 			"type": "parent",
+			"note": "",
 			"note": "Note2",
 			"meta": {
 				"inherit_all": true,

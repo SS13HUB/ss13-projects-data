@@ -4,6 +4,7 @@
 		{
 			"name": "TerraGov Marine Corps (TGMC)",
 			"type": "parent",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

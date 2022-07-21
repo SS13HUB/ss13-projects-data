@@ -4,6 +4,7 @@
 		{
 			"name": "Eris v2",
 			"type": "red",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",

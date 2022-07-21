@@ -4,6 +4,7 @@
 		{
 			"name": "FTL13 (Old)",
 			"type": "red",
+			"note": "",
 			"meta": {
 				"inherit_all": true,
 				"migrated_commit": "",
