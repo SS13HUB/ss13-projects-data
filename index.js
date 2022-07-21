@@ -15,22 +15,25 @@ if (jsonData == 'Error') {
 //import jsdom from 'jsdom';
 //import * as d3 from 'd3';
 
-//const d3 = require("d3"); //v3, not v7
+//const d3 = require("d3@v3"); //v3, not v7
 
 const fs = require('fs');
 const path = require('path'); //base_path = path.resolve();
 const base_path = process.cwd();
-const target = base_path + '\\data\\';
+const target_path = base_path + '\\data\\json\\';
+const target_ext = '.json';
 
 
 function init() {
-	let _names = fs.readdirSync(target)
+	let _names = fs.readdirSync(target_path)
 		//.filter(item => !item.isDirectory())
-		.filter(name => path.extname(name) === '.json');
-	let _content = fs.readdirSync(target)
+		.filter(name => path.extname(name) === target_ext);
+	console.log('_names:', _names);
+	let _content = fs.readdirSync(target_path)
 		//.filter(item => !item.isDirectory())
-		.filter(name => path.extname(name) === '.json')
-		.map(name => require(path.join(target, name)));
+		.filter(name => path.extname(name) === target_ext)
+		.map(name => require(path.join(target_path, name)));
+	console.log('_content:', _content);
 	let _out = {};
 	for (let i = 0; i < _names.length; i++) {
 		const element = _names[i].split('.')[0];
@@ -44,10 +47,12 @@ async function main() {
 	console.log('Hi');
 
 	console.log('base_path:', base_path);
+	console.log('target_path:', target_path);
+	console.log('target_ext:', target_ext);
 
-	const jsonData = require(base_path + '\\data\\000.json');
-	console.log(jsonData);
+	const jsonData = require(target_path + '000' + target_ext);
+	console.log('jsonData:', jsonData);
 }
 
-//main();
-console.log(init());
+main();
+console.log('_out:', init());
