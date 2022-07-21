@@ -38,10 +38,26 @@ function read_files(target_path) {
 		.map(name => require(path.join(target_path, name)));
 	if (local_debug) console.log('_content:', _content);
 	for (let i = 0; i < _names.length; i++) {
-		const element = _names[i].split('.')[0];
-		_out[element] = _content[i];
+		const id = _names[i].split('.')[0];
+		_out[id] = _content[i];
 	}
 	return _out;
+}
+
+function data_lint(data) {
+	let unaccepted = {};
+	for (const [project_id, project_data] of Object.entries(data)) {
+		let reason = '';
+		if ((typeof project_data.name !== 'string') || (project_data.name.length == 0)) reason += 'name;';
+		if (typeof project_data.relations !== 'object') reason += 'relations;';
+		if (typeof project_data.note !== 'string') reason += 'note;';
+		if (typeof project_data.meta !== 'object') reason += 'meta;';
+		if (typeof project_data.meta.migrated_commit !== 'string') reason += 'meta.migrated_commit;';
+		if (typeof project_data.meta.added_by !== 'string') reason += 'meta.added_by;';
+		if (typeof project_data.meta.add_date !== 'string') reason += 'meta.add_date;';
+		if (reason.length > 0) unaccepted[project_id] = {project_data, reason};
+	}
+	return unaccepted;
 }
 
 function get_score(data) {
@@ -69,7 +85,7 @@ function get_score(data) {
 	for (const [project_name, project_score] of Object.entries(score.relations_count)) {
 		if (project_score < 2) delete score.relations_count[project_name];
 	}
-	return score
+	return score;
 }
 
 function require_project(project_id) {
@@ -87,15 +103,21 @@ async function main() {
 	const jsonData = require_project('000');
 	console.log('jsonData:', jsonData);
 
-	let _out = read_files(target_path);
+	const _out = read_files(target_path);
 	console.log('_out:', _out);
 
 	const score = get_score(_out);
 	console.log('get_score 1:', score);
 
-	let _out2 = read_files(target_path + 'outsourcing\\');
+	const _out2 = read_files(target_path + 'outsourcing\\');
 	const score2 = get_score(_out2);
 	console.log('get_score 2:', score2);
+
+	const unaccepted = data_lint(_out);
+	console.log('unaccepted 1:', unaccepted);
+
+	const unaccepted2 = data_lint(_out2);
+	console.log('unaccepted 2:', unaccepted2);
 
 }
 
