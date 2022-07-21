@@ -1,0 +1,21 @@
+{
+	"name": "SCP-13",
+	"relations": [
+		{
+			"name": "BayStation12 (AGPL)",
+			"type": "parent",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "CthulhuOnIce",
+		"add_date": ""
+	}
+}

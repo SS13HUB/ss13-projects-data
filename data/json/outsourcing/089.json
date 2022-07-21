@@ -1,0 +1,32 @@
+{
+	"name": "OpenSS13",
+	"relations": [
+		{
+			"name": "Original «SS13» \n(Pre-open)",
+			"type": "parent",
+			"note": "Note1",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		{
+			"name": "Original «SS13» \n(Pre-open)",
+			"type": "parent",
+			"note": "Note2",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "edited: Gesugao-san",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "CthulhuOnIce",
+		"add_date": ""
+	}

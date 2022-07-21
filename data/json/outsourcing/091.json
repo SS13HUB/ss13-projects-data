@@ -1,0 +1,21 @@
+{
+	"name": "Persistence",
+	"relations": [
+		{
+			"name": "Persistence SS13 (Old)",
+			"type": "red",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "Gesugao-san",
+		"add_date": ""
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Aliens Isolation",
+	"relations": [
+		{
+			"name": "Eris v2",
+			"type": "parent",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "Gesugao-san",
+		"add_date": ""
+	}
+}

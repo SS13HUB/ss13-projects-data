@@ -1,0 +1,21 @@
+{
+	"name": "Eris v1",
+	"relations": [
+		{
+			"name": "Rebay (mix of Bay, Luna, TG)",
+			"type": "parent",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "Gesugao-san",
+		"add_date": ""
+	}
+}

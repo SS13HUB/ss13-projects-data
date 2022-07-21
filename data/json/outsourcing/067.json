@@ -1,0 +1,21 @@
+{
+	"name": "CEV Eris",
+	"relations": [
+		{
+			"name": "Eris v2",
+			"type": "red",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "Gesugao-san",
+		"add_date": ""
+	}
+}

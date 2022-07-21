@@ -1,0 +1,21 @@
+{
+	"name": "FTL13 (Old)",
+	"relations": [
+		{
+			"name": "YogStation",
+			"type": "parent",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "edited: quardbreak",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "CthulhuOnIce",
+		"add_date": ""
+	}
+}

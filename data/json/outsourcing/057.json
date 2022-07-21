@@ -1,0 +1,21 @@
+{
+	"name": "White Sands",
+	"relations": [
+		{
+			"name": "Boomer Station",
+			"type": "red",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "BlueNexus",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "edit: comradef191",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "CthulhuOnIce",
+		"add_date": ""
+	}
+}

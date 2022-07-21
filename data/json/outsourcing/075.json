@@ -1,0 +1,21 @@
+{
+	"name": "Goonstation (2009 Public SVN)",
+	"relations": [
+		{
+			"name": "Goonstation",
+			"type": "red",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "edited: Gesugao-san",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "comradef191",
+		"add_date": ""
+	}
+}

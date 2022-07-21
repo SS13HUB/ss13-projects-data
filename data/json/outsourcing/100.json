@@ -1,0 +1,21 @@
+{
+	"name": "Deep Space 13",
+	"relations": [
+		{
+			"name": "Star Trek 13",
+			"type": "red",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "CthulhuOnIce",
+		"add_date": ""
+	}
+}

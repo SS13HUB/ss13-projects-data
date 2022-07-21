@@ -1,0 +1,21 @@
+{
+	"name": "NEV Northern Light",
+	"relations": [
+		{
+			"name": "CEV Eris",
+			"type": "parent",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "CEV Eris",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "drexample",
+		"add_date": ""
+	}
+}

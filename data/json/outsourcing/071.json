@@ -1,0 +1,21 @@
+{
+	"name": "BayStation12 (Pre-r4407)",
+	"relations": [
+		{
+			"name": "Goonstation (2009 Public SVN)",
+			"type": "parent",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "comradef191",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "edited: Gesugao-san",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "comradef191",
+		"add_date": ""
+	}
+}

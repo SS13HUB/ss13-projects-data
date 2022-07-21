@@ -1,0 +1,21 @@
+{
+	"name": "Aphelion Project",
+	"relations": [
+		{
+			"name": "Unbound Travels",
+			"type": "parent",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "BlueNexus",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "BlueNexus",
+		"add_date": ""
+	}
+}

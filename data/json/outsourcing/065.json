@@ -1,0 +1,21 @@
+{
+	"name": "Goonstation",
+	"relations": [
+		{
+			"name": "Donut Station",
+			"type": "parent",
+			"meta": {
+				"inherit_all": true,
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		}
+	],
+	"note": "edited: Gesugao-san",
+	"meta": {
+		"migrated_commit": "",
+		"added_by": "CthulhuOnIce",
+		"add_date": ""
+	}
+}
