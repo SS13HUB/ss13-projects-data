@@ -32,11 +32,13 @@ function read_files(target_path) {
 		//.filter(item => !item.isDirectory())
 		.filter(name => path.extname(name) === target_ext);
 	if (local_debug) console.log('_names:', _names);
+
 	let _content = fs.readdirSync(target_path)
 		//.filter(item => !item.isDirectory())
 		.filter(name => path.extname(name) === target_ext)
 		.map(name => require(path.join(target_path, name)));
 	if (local_debug) console.log('_content:', _content);
+
 	for (let i = 0; i < _names.length; i++) {
 		const id = _names[i].split('.')[0];
 		_out[id] = _content[i];
@@ -50,11 +52,15 @@ function data_lint(data) {
 		let reason = '';
 		if ((typeof project_data.name !== 'string') || (project_data.name.length == 0)) reason += 'name; ';
 		if ( typeof project_data.relations !== 'object') reason += 'relations; '; // 'array'
+
 		if ( typeof project_data.note !== 'string') reason += 'note; '; // || (relation.name.length == 0)
 		if ( typeof project_data.meta !== 'object') reason += 'meta; ';
+
 		if ( typeof project_data.meta.migrated_commit !== 'string') reason += 'meta.migrated_commit; '; //  || (relation.meta.migrated_commit == 0)
+
 		if ((typeof project_data.meta.added_by !== 'string') || (project_data.meta.added_by == 0)) reason += 'meta.added_by; ';
 		if ( typeof project_data.meta.add_date !== 'string') reason += 'meta.add_date; '; // || (relation.meta.add_date == 0)
+
 		for (let i = 0; i < project_data.relations.length; i++) {
 			const relation = project_data.relations[i];
 			if ((typeof relation.name !== 'string') || (relation.name.length == 0)) reason += 'relation.name; ';
@@ -77,14 +83,21 @@ function get_score(data) {
 		'relations_count': {}
 	};
 	for (const project_data of Object.values(data)) {
+		if (!project_data.meta.added_by) console.log('No "Added by" field:', project_data);
+		if (!project_data.name) console.log('No "Added by" field:', project_data);
+
 		if (!score.adders[project_data.meta.added_by]) score.adders[project_data.meta.added_by] = 0;
 		if (!score.relations_count[project_data.name]) score.relations_count[project_data.name] = 0;
+
 		score.adders[project_data.meta.added_by] += 1;
 		score.relations_count[project_data.name] += 1;
+
 		for (let ii = 0; ii < project_data.relations.length; ii++) {
 			const relation = project_data.relations[ii];
+
 			if (!score.adders[relation.meta.added_by]) score.adders[relation.meta.added_by] = 0;
 			score.adders[relation.meta.added_by] += 1;
+
 			if (!score.relations_count[relation.name]) score.relations_count[relation.name] = 0;
 			score.relations_count[relation.name] += 1;
 		}
@@ -104,9 +117,9 @@ function require_project(project_id) {
 }
 
 // http://stackoverflow.com/a/25500462/8175291
-function dict_sort(dict) {
+function dict_sort(dict, keys_pos_inverted = true) {
 	// Create items array
-	var items = Object.keys(dict).map((key) => {
+	var items = Object.keys(dict).sort().map((key) => {
 		return [key, dict[key]];
 	});
 
@@ -114,9 +127,16 @@ function dict_sort(dict) {
 	items.sort((first, second) => {
 		return second[1] - first[1];
 	});
-	var items2 = []
-	for (let i = 0; i < items.length; i++) {
-		items2.push([items[i][1], items[i][0]]);
+	var items2 = [];
+	if (keys_pos_inverted) {
+		for (let i = 0; i < items.length; i++) {
+			items2.push([items[i][1], items[i][0]]);
+		}
+		items2.sort((first, second) => {
+			return second[1] - first[1];
+		});
+	} else {
+		items2 = items;
 	}
 
 
@@ -143,23 +163,23 @@ async function main() {
 	//console.log('jsonData:', jsonData);
 
 	const _out = read_files(target_path);
-	console.log('_out:', _out);
+	console.log('read_files (1):', _out);
 
 	const score = get_score(_out);
-	console.log('get_score 1:', score);
+	console.log('get_score (1):', score);
 
 
 	const _out2 = read_files(target_path + 'outsourcing\\');
 	const score2 = get_score(_out2);
 	let score2_sorted = {'adders': dict_sort(score2.adders), 'relations_count': dict_sort(score2.relations_count)};
-	console.log('get_score 2 sort:', score2_sorted);
+	console.log('get_score (2) sort:', score2_sorted);
 
 
 	const unaccepted = data_lint(_out);
-	console.log('unaccepted 1:', unaccepted);
+	console.log('unaccepted (read_files 1):', unaccepted);
 
 	const unaccepted2 = data_lint(_out2);
-	console.log('unaccepted 2:', unaccepted2);
+	console.log('unaccepted (read_files 2):', unaccepted2);
 
 }
 
