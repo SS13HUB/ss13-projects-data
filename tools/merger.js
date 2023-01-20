@@ -69,9 +69,9 @@ async function main() {
 	console.log('target_path:', target_path);
 	console.log('target_ext:', target_ext);
 
-	const _out = read_files(target_path);
-	console.log('read_files (1) (meta):', _out["meta"]);
-	if (local_verbose) console.log('read_files (1) (data):', _out["data"]);
+	const _out1 = read_files(target_path);
+	console.log('read_files (1) (meta):', _out1["meta"]);
+	if (local_verbose) console.log('read_files (1) (data):', _out1["data"]);
 
 	const _out2 = read_files(target_path + '\\outsourcing\\');
 	console.log('read_files (2) (meta):', _out2["meta"]);

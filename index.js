@@ -25,11 +25,17 @@ const target_path = path.resolve(base_path + '\\data\\json');
 const target_ext = '.json';
 
 const local_debug = Boolean ( 0 );
-const local_verbose = Boolean ( 1 );
+const local_verbose = Boolean ( 0 );
 
 
 function read_files(target_path) {
-	let _out = {};
+	let _out = {
+		"meta": {
+			"key_min": 9999,
+			"key_max": 0
+		},
+		"data": {}
+	};
 	let _names = fs.readdirSync(target_path)
 		//.filter(item => !item.isDirectory())
 		.filter(name => path.extname(name) === target_ext);
@@ -39,11 +45,14 @@ function read_files(target_path) {
 		//.filter(item => !item.isDirectory())
 		.filter(name => path.extname(name) === target_ext)
 		.map(name => require(path.join(target_path, name)));
-	if (local_debug) console.log('_content:', _content);
+	if (local_verbose) console.log('_content:', _content);
 
 	for (let i = 0; i < _names.length; i++) {
 		const id = _names[i].split('.')[0];
-		_out[id] = _content[i];
+		_out["data"][id] = _content[i];
+		const id_int = parseInt(id);
+		if (id_int < _out["meta"]["key_min"]) _out["meta"]["key_min"] = id_int;
+		if (id_int > _out["meta"]["key_max"]) _out["meta"]["key_max"] = id_int;
 	}
 	return _out;
 }
@@ -163,23 +172,27 @@ async function main() {
 	//const jsonData = require_project('000');
 	//console.log('jsonData:', jsonData);
 
-	const _out = read_files(target_path);
-	if (local_verbose) console.log('read_files (1):', _out);
+	const _out1 = read_files(target_path);
+	console.log('read_files (1) (meta):', _out1["meta"]);
+	if (local_verbose) console.log('read_files (1) (data):', _out1["data"]);
 
-	const score = get_score(_out);
-	if (local_verbose) console.log('get_score (1):', score);
+	const _score1 = get_score(_out1["data"]);
+	console.log('get_score (1):', _score1);
 
 
 	const _out2 = read_files(target_path + '\\outsourcing\\');
-	const score2 = get_score(_out2);
-	let score2_sorted = {'adders': dict_sort(score2.adders), 'children_count': dict_sort(score2.children_count), 'parrents_count': dict_sort(score2.parrents_count)};
+	console.log('read_files (2) (meta):', _out2["meta"]);
+	if (local_verbose) console.log('read_files (2) (data):', _out2["data"]);
+
+	const _score2 = get_score(_out2["data"]);
+	let score2_sorted = {'adders': dict_sort(_score2.adders), 'children_count': dict_sort(_score2.children_count), 'parrents_count': dict_sort(_score2.parrents_count)};
 	console.log('get_score (2) sort:', score2_sorted);
 
 
-	const unaccepted = data_lint(_out);
+	const unaccepted = data_lint(_out1["data"]);
 	console.log('unaccepted (read_files 1):', unaccepted);
 
-	const unaccepted2 = data_lint(_out2);
+	const unaccepted2 = data_lint(_out2["data"]);
 	console.log('unaccepted (read_files 2):', unaccepted2);
 
 }
