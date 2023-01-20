@@ -79,14 +79,14 @@ async function main() {
 
 	//sorted_json = JSON.dumps(_out2, sort_keys = true)
 	var stringified = JSON.stringify(_out2["data"], null, "\t");
-	await fs.writeFileSync(target_path + '\\_data.json', stringified, {encoding: 'utf8'}, (err) => err && console.error(err));
+	await fs.writeFileSync(path.resolve(target_path +  + '\\..\\merged\\_data.json'), stringified, {encoding: 'utf8'}, (err) => err && console.error(err));
 
 	//for (let project_id in _out2["data"]) {
-	//	fs.appendFile(target_path + '\\_data.json', JSON.stringify({project_id: _out2["data"][project_id]}, null, "\t"), {encoding: 'utf8'}, (err) => err && console.error(err));
+	//	fs.appendFile(path.resolve(target_path +  + '\\..\\merged\\_data.json'), JSON.stringify({project_id: _out2["data"][project_id]}, null, "\t"), {encoding: 'utf8'}, (err) => err && console.error(err));
 	//}
 
-	await s_json.overwrite(target_path + '\\_data.json', options);
-	//await fs.writeFileSync(target_path + '\\_data.json', json_ks.sort(_out2["data"], true), {encoding: 'utf8'}, (err) => err && console.error(err));
+	await s_json.overwrite(path.resolve(target_path +  + '\\..\\merged\\_data.json'), options);
+	//await fs.writeFileSync(path.resolve(target_path +  + '\\..\\merged\\_data.json'), json_ks.sort(_out2["data"], true), {encoding: 'utf8'}, (err) => err && console.error(err));
 	//console.log(json_ks.sort(_out2["data"], true))
 
 }

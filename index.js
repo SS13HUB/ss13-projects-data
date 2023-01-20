@@ -21,10 +21,11 @@ if (jsonData == 'Error') {
 const fs = require('fs');
 const path = require('path'); //base_path = path.resolve();
 const base_path = __dirname || process.cwd();
-const target_path = path.resolve(base_path + '\\data\\json\\');
+const target_path = path.resolve(base_path + '\\data\\json');
 const target_ext = '.json';
 
 const local_debug = Boolean ( 0 );
+const local_verbose = Boolean ( 1 );
 
 
 function read_files(target_path) {
@@ -84,8 +85,10 @@ function get_score(data) {
 		'relations_count': {}
 	};
 	for (const project_data of Object.values(data)) {
-		if (!project_data.meta.added_by) console.log('No "Added by" field:', project_data);
-		if (!project_data.name) console.log('No "Added by" field:', project_data);
+		//console.log("project_data", project_data);
+		//if (!project_data.meta) console.log('No "Meta" field:', project_data);
+		//if (!project_data.meta.added_by) console.log('No "Added by" field:', project_data);
+		//if (!project_data.name) console.log('No "Added by" field:', project_data);
 
 		if (!score.adders[project_data.meta.added_by]) score.adders[project_data.meta.added_by] = 0;
 		if (!score.relations_count[project_data.name]) score.relations_count[project_data.name] = 0;
@@ -111,10 +114,6 @@ function get_score(data) {
 		if (project_score < 2) delete score.relations_count[project_name];
 	}
 	return score;
-}
-
-function require_project(project_id) {
-	return require(target_path + project_id + target_ext) || false;
 }
 
 // http://stackoverflow.com/a/25500462/8175291
@@ -158,16 +157,16 @@ async function main() {
 
 	console.log('base_path:', base_path);
 	console.log('target_path:', target_path);
-	console.log('target_ext:', target_ext);
+	//console.log('target_ext:', target_ext);
 
 	//const jsonData = require_project('000');
 	//console.log('jsonData:', jsonData);
 
 	const _out = read_files(target_path);
-	console.log('read_files (1):', _out);
+	if (local_verbose) console.log('read_files (1):', _out);
 
 	const score = get_score(_out);
-	console.log('get_score (1):', score);
+	if (local_verbose) console.log('get_score (1):', score);
 
 
 	const _out2 = read_files(target_path + '\\outsourcing\\');
