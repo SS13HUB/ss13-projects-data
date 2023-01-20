@@ -18,7 +18,11 @@
   "homepage": "https://github.com/SS13HUB/ss13-projects-data#readme",
   "dependencies": {
     "d3": "^3.5.17",
+    "d3-color": "^3.1.0",
+    "d3-selection": "^3.0.0",
+    "d3-webpack-loader": "^0.1.1",
     "fs": "^0.0.1-security",
+    "json-keys-sort": "^2.1.0",
     "path": "^0.12.7",
     "process": "^0.11.10"
   }

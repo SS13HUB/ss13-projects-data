@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 
 'use strict';
 
@@ -19,8 +20,8 @@ if (jsonData == 'Error') {
 
 const fs = require('fs');
 const path = require('path'); //base_path = path.resolve();
-const base_path = process.cwd();
-const target_path = base_path + '\\data\\json\\';
+const base_path = __dirname || process.cwd();
+const target_path = path.resolve(base_path + '\\data\\json\\');
 const target_ext = '.json';
 
 const local_debug = Boolean ( 0 );
@@ -169,7 +170,7 @@ async function main() {
 	console.log('get_score (1):', score);
 
 
-	const _out2 = read_files(target_path + 'outsourcing\\');
+	const _out2 = read_files(target_path + '\\outsourcing\\');
 	const score2 = get_score(_out2);
 	let score2_sorted = {'adders': dict_sort(score2.adders), 'relations_count': dict_sort(score2.relations_count)};
 	console.log('get_score (2) sort:', score2_sorted);
