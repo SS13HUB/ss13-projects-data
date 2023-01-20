@@ -82,7 +82,8 @@ function data_lint(data) {
 function get_score(data) {
 	let score = {
 		'adders': {},
-		'relations_count': {}
+		'children_count': {},
+		'parrents_count': {}
 	};
 	for (const project_data of Object.values(data)) {
 		//console.log("project_data", project_data);
@@ -91,27 +92,27 @@ function get_score(data) {
 		//if (!project_data.name) console.log('No "Added by" field:', project_data);
 
 		if (!score.adders[project_data.meta.added_by]) score.adders[project_data.meta.added_by] = 0;
-		if (!score.relations_count[project_data.name]) score.relations_count[project_data.name] = 0;
+		if (!score.children_count[project_data.name]) score.children_count[project_data.name] = 0;
 
 		score.adders[project_data.meta.added_by] += 1;
-		score.relations_count[project_data.name] += 1;
+		score.children_count[project_data.name] += 1;
 
 		for (let ii = 0; ii < project_data.relations.length; ii++) {
 			const relation = project_data.relations[ii];
 
 			if (!score.adders[relation.meta.added_by]) score.adders[relation.meta.added_by] = 0;
 			score.adders[relation.meta.added_by] += 1;
-
-			if (!score.relations_count[relation.name]) score.relations_count[relation.name] = 0;
-			score.relations_count[relation.name] += 1;
 		}
+
+		if (project_data.relations.length > 1)
+			score.parrents_count[project_data.name] = project_data.relations.length;
 	}
 	if (score.adders['']) {
 		score.adders['_Fill_Me_'] = score.adders[''];
 		delete score.adders[''];
 	}
-	for (const [project_name, project_score] of Object.entries(score.relations_count)) {
-		if (project_score < 2) delete score.relations_count[project_name];
+	for (const [project_name, project_score] of Object.entries(score.children_count)) {
+		if (project_score < 2) delete score.children_count[project_name];
 	}
 	return score;
 }
@@ -171,7 +172,7 @@ async function main() {
 
 	const _out2 = read_files(target_path + '\\outsourcing\\');
 	const score2 = get_score(_out2);
-	let score2_sorted = {'adders': dict_sort(score2.adders), 'relations_count': dict_sort(score2.relations_count)};
+	let score2_sorted = {'adders': dict_sort(score2.adders), 'children_count': dict_sort(score2.children_count), 'parrents_count': dict_sort(score2.parrents_count)};
 	console.log('get_score (2) sort:', score2_sorted);
 
 
