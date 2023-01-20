@@ -1,0 +1,2433 @@
+{
+	"0002": {
+		"name": "/tg/stalker",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0003": {
+		"name": "Apollo Station",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0004": {
+		"name": "BeeStation",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0005": {
+		"name": "Citadel Main",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	"0006": {
+		"name": "Fallout 13",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0007": {
+		"name": "FTL13",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0008": {
+		"name": "HippieStation",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0009": {
+		"name": "Horizon Station 13",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0010": {
+		"name": "Mojave Sun",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	"0011": {
+		"name": "OracleStation",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0012": {
+		"name": "PSK Duda-37",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0013": {
+		"name": "Star Trek 13",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0014": {
+		"name": "Sunset Station",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0015": {
+		"name": "Toolbox Station",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0016": {
+		"name": "WaspStation",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0017": {
+		"name": "YogStation",
+		"relations": [
+			{
+				"name": "/tg/Station (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0018": {
+		"name": "/tg/Station (AGPL)",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0019": {
+		"name": "Archangel",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0020": {
+		"name": "BayStation12 (GPL)",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0021": {
+		"name": "FacePunch Station",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0022": {
+		"name": "FreeTG Station",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0023": {
+		"name": "HippieStation (Old)",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0024": {
+		"name": "Nanotrasen Station",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0025": {
+		"name": "Novux Station",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0026": {
+		"name": "NTStation",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0027": {
+		"name": "Pony(/Tabun/Rainbow) Station 13",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0028": {
+		"name": "Traitor Death Match",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0029": {
+		"name": "Urist McStation v1",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0030": {
+		"name": "YogStation (Old)",
+		"relations": [
+			{
+				"name": "/tg/Station (GPLv3)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0031": {
+		"name": "Atlas Station v2",
+		"relations": [
+			{
+				"name": "/vg/Station",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0032": {
+		"name": "Eclipse Station",
+		"relations": [
+			{
+				"name": "AEIOU",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0033": {
+		"name": "Aurora Station",
+		"relations": [
+			{
+				"name": "Aurora (Old)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0034": {
+		"name": "No Mans's Land",
+		"relations": [
+			{
+				"name": "Ava's Battlegrounds",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0035": {
+		"name": "Aurora Station",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0036": {
+		"name": "Dead Space 13 (DS13)",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0037": {
+		"name": "Eris v2",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0038": {
+		"name": "Europa Station",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0039": {
+		"name": "Halo: Space Station Evolved",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0040": {
+		"name": "Persistence",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0041": {
+		"name": "Polaris",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0042": {
+		"name": "Rebay (mix of Bay, Luna, TG)",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0043": {
+		"name": "SCP-13",
+		"relations": [
+			{
+				"name": "BayStation12 (AGPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "quardbreak",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0044": {
+		"name": "Urist McStation v2",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edit: Gesugao-san",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0045": {
+		"name": "/vg/Station",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0046": {
+		"name": "Aurora (Old)",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0047": {
+		"name": "BayStation12 (AGPL)",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0048": {
+		"name": "BestRP",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0049": {
+		"name": "Colonial Marines (CM)",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0050": {
+		"name": "Interbay",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edit: Orange",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0051": {
+		"name": "Paradise",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0052": {
+		"name": "RocketStation42",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0053": {
+		"name": "Tau Ceti",
+		"relations": [
+			{
+				"name": "BayStation12 (GPL)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0054": {
+		"name": "AuStation",
+		"relations": [
+			{
+				"name": "BeeStation",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0055": {
+		"name": "NSV13",
+		"relations": [
+			{
+				"name": "BeeStation",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "qwertyquerty",
+			"add_date": ""
+		}
+	},
+	"0056": {
+		"name": "Unbound Travels",
+		"relations": [
+			{
+				"name": "BeeStation",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "BlueNexus",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "BlueNexus",
+			"add_date": ""
+		}
+	},
+	"0057": {
+		"name": "White Sands",
+		"relations": [
+			{
+				"name": "Boomer Station",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "BlueNexus",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edit: comradef191",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0058": {
+		"name": "InterStation-Two",
+		"relations": [
+			{
+				"name": "CEV Eris",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CEV Eris",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0059": {
+		"name": "NEV Northern Light",
+		"relations": [
+			{
+				"name": "CEV Eris",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CEV Eris",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "drexample",
+			"add_date": ""
+		}
+	},
+	"0060": {
+		"name": "Soujurn Statio",
+		"relations": [
+			{
+				"name": "CEV Eris",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0061": {
+		"name": "HyperStation",
+		"relations": [
+			{
+				"name": "Citadel Main",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	"0062": {
+		"name": "Skyrat 13",
+		"relations": [
+			{
+				"name": "Citadel Main",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	"0063": {
+		"name": "Digital Marines: Colonial Aliens (DM;CA)",
+		"relations": [
+			{
+				"name": "Colonial Marines (CM)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0064": {
+		"name": "TerraGov Marine Corps (TGMC)",
+		"relations": [
+			{
+				"name": "Digital Marines: Colonial Aliens (DM;CA)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0065": {
+		"name": "Goonstation",
+		"relations": [
+			{
+				"name": "Donut Station",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edited: Gesugao-san",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0066": {
+		"name": "Aliens Isolation",
+		"relations": [
+			{
+				"name": "Eris v2",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0067": {
+		"name": "CEV Eris",
+		"relations": [
+			{
+				"name": "Eris v2",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0068": {
+		"name": "Corporate Mercenar(-y/-ies)",
+		"relations": [
+			{
+				"name": "FacePunch Station",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0069": {
+		"name": "Desert Rose",
+		"relations": [
+			{
+				"name": "Fallout 13",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0070": {
+		"name": "FTL13",
+		"relations": [
+			{
+				"name": "FTL13 (Old)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0071": {
+		"name": "BayStation12 (Pre-r4407)",
+		"relations": [
+			{
+				"name": "Goonstation (2009 Public SVN)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "comradef191",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edited: Gesugao-san",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "comradef191",
+			"add_date": ""
+		}
+	},
+	"0072": {
+		"name": "Goonstation (2020 Release)",
+		"relations": [
+			{
+				"name": "Goonstation (2016 Release)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0073": {
+		"name": "T/Goonstation",
+		"relations": [
+			{
+				"name": "Goonstation (2016 Release)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0074": {
+		"name": "BeeStation Clover",
+		"relations": [
+			{
+				"name": "Goonstation (Open Source)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0075": {
+		"name": "Goonstation (2009 Public SVN)",
+		"relations": [
+			{
+				"name": "Goonstation",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edited: Gesugao-san",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "comradef191",
+			"add_date": ""
+		}
+	},
+	"0076": {
+		"name": "Goonstation (2016 Release)",
+		"relations": [
+			{
+				"name": "Goonstation",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0077": {
+		"name": "Goonstation (Open Source)",
+		"relations": [
+			{
+				"name": "Goonstation",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0078": {
+		"name": "Revision 4407 (r4407)",
+		"relations": [
+			{
+				"name": "Goonstation",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0079": {
+		"name": "HippieStation",
+		"relations": [
+			{
+				"name": "HippieStation (Old)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0080": {
+		"name": "Atlas Station v1",
+		"relations": [
+			{
+				"name": "HippieStation",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0081": {
+		"name": "Cadia Station",
+		"relations": [
+			{
+				"name": "Interbay",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0082": {
+		"name": "KaiserBay",
+		"relations": [
+			{
+				"name": "Interbay",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0083": {
+		"name": "Ava's Battlegrounds",
+		"relations": [
+			{
+				"name": "InterStation-Two",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0084": {
+		"name": "Civilization 13",
+		"relations": [
+			{
+				"name": "Lebensraum",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0085": {
+		"name": "Lebensraum",
+		"relations": [
+			{
+				"name": "No Mans's Land",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0086": {
+		"name": "D20 Station",
+		"relations": [
+			{
+				"name": "NTStation",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0087": {
+		"name": "BayStation12 (OpenSS13, pre Goon)",
+		"relations": [
+			{
+				"name": "OpenSS13",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edited: Gesugao-san",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0088": {
+		"name": "Donut Station",
+		"relations": [
+			{
+				"name": "OpenSS13",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0089": {
+		"name": "OpenSS13",
+		"relations": [
+			{
+				"name": "Original «SS13» \n(Pre-open)",
+				"type": "parent",
+				"note": "Note1",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			},
+			{
+				"name": "Original «SS13» \n(Pre-open)",
+				"type": "parent",
+				"note": "Note2",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edited: Gesugao-san",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0090": {
+		"name": "Persistence SS13 (Old)",
+		"relations": [
+			{
+				"name": "Paradise",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0091": {
+		"name": "Persistence",
+		"relations": [
+			{
+				"name": "Persistence SS13 (Old)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0092": {
+		"name": "V.O.R.E. Station",
+		"relations": [
+			{
+				"name": "Polaris",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0093": {
+		"name": "Virgo",
+		"relations": [
+			{
+				"name": "Polaris",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0094": {
+		"name": "World Server",
+		"relations": [
+			{
+				"name": "Polaris",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0095": {
+		"name": "Eris v1",
+		"relations": [
+			{
+				"name": "Rebay (mix of Bay, Luna, TG)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0096": {
+		"name": "/tg/Station (GPLv3)",
+		"relations": [
+			{
+				"name": "Revision 4407 (r4407)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edited: Gesugao-san",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0097": {
+		"name": "BayStation12 (Luna)",
+		"relations": [
+			{
+				"name": "Revision 4407 (r4407)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0098": {
+		"name": "D2K5",
+		"relations": [
+			{
+				"name": "Revision 4407 (r4407)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0099": {
+		"name": "Mars Station 42",
+		"relations": [
+			{
+				"name": "Revision 4407 (r4407)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0100": {
+		"name": "Deep Space 13",
+		"relations": [
+			{
+				"name": "Star Trek 13",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0101": {
+		"name": "Winter Contingency",
+		"relations": [
+			{
+				"name": "TerraGov Marine Corps (TGMC)",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Gesugao-san",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	"0102": {
+		"name": "Aphelion Project",
+		"relations": [
+			{
+				"name": "Unbound Travels",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "BlueNexus",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "BlueNexus",
+			"add_date": ""
+		}
+	},
+	"0103": {
+		"name": "Digital Marines: Colonial Aliens (DM;CA)",
+		"relations": [
+			{
+				"name": "United Kingdom of Soviet Station 13",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "Void",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Void",
+			"add_date": ""
+		}
+	},
+	"0104": {
+		"name": "AEIOU",
+		"relations": [
+			{
+				"name": "V.O.R.E. Station",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0105": {
+		"name": "Citadel RP",
+		"relations": [
+			{
+				"name": "V.O.R.E. Station",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	"0106": {
+		"name": "Yawn Wider",
+		"relations": [
+			{
+				"name": "V.O.R.E. Station",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0107": {
+		"name": "Boomer Station",
+		"relations": [
+			{
+				"name": "WaspStation",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0108": {
+		"name": "CHOMPstation",
+		"relations": [
+			{
+				"name": "Yawn Wider",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0109": {
+		"name": "YogStation",
+		"relations": [
+			{
+				"name": "YogStation (Old)",
+				"type": "red",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0110": {
+		"name": "FTL13 (Old)",
+		"relations": [
+			{
+				"name": "YogStation",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "edited: quardbreak",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	"0111": {
+		"name": "Fulpstation",
+		"relations": [
+			{
+				"name": "YogStation",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "",
+		"meta": {
+			"migrated_commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	}
+}

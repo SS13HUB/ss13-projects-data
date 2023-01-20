@@ -20,7 +20,7 @@ if (jsonData == 'Error') {
 
 const fs = require('fs');
 const path = require('path');
-const json_ks = require('json-keys-sort'); //sort-json
+const s_json = require('sort-json'); //json-keys-sort
 
 const options = { ignoreCase: false, reverse: false, depth: 1};
 
@@ -85,9 +85,9 @@ async function main() {
 	//	fs.appendFile(target_path + '\\_data.json', JSON.stringify({project_id: _out2["data"][project_id]}, null, "\t"), {encoding: 'utf8'}, (err) => err && console.error(err));
 	//}
 
-	//await sortJson.overwrite(target_path + '\\_data.json', options);
+	await s_json.overwrite(target_path + '\\_data.json', options);
 	//await fs.writeFileSync(target_path + '\\_data.json', json_ks.sort(_out2["data"], true), {encoding: 'utf8'}, (err) => err && console.error(err));
-	console.log(json_ks.sort(_out2["data"], true))
+	//console.log(json_ks.sort(_out2["data"], true))
 
 }
 

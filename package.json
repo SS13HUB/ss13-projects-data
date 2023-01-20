@@ -22,8 +22,8 @@
     "d3-selection": "^3.0.0",
     "d3-webpack-loader": "^0.1.1",
     "fs": "^0.0.1-security",
-    "json-keys-sort": "^2.1.0",
     "path": "^0.12.7",
-    "process": "^0.11.10"
+    "process": "^0.11.10",
+    "sort-json": "^2.0.1"
   }
 }
