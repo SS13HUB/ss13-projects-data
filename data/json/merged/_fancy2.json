@@ -4182,7 +4182,7 @@
 			"aliases": []
 		},
 		"parent": {
-			"id": null,
+			"id": "Space Station 13",
 			"name": "Original «SS13» \n(Pre-open)",
 			"details": {
 				"type": "parent",
@@ -4854,7 +4854,7 @@
 			"aliases": []
 		},
 		"parent": {
-			"id": null,
+			"id": "Space Station 13",
 			"name": "United Kingdom of Soviet Station 13",
 			"details": {
 				"type": "parent",
