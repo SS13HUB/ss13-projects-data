@@ -196,25 +196,37 @@ async function main() {
 	console.log('read_files (1) (meta):', _out1["meta"]);
 	if (local_verbose) console.log('read_files (1) (data):', _out1["data"]);
 
+	let stringified1 = JSON.stringify(_out1["data"], null, "\t");
+	await fs.writeFileSync(path.resolve(target_path + '\\merged\\_legacy1.json'), stringified1, {encoding: 'utf8'}, (err) => err && console.error(err));
+
 	const convert1 = convert(_out1["data"]);
 	console.log('convert (1):', convert1);
 
 	const remap1 = remap_fancy(convert1);
 	console.log('remap (1):', remap1);
 
-	var stringified = JSON.stringify(convert1, null, "\t");
-	await fs.writeFileSync(path.resolve(target_path + '\\merged\\_fancy1.json'), stringified, {encoding: 'utf8'}, (err) => err && console.error(err));
+	stringified1 = JSON.stringify(remap1, null, "\t");
+	await fs.writeFileSync(path.resolve(target_path + '\\merged\\_fancy1.json'), stringified1, {encoding: 'utf8'}, (err) => err && console.error(err));
 
+	//process.exit(1);
 
-	process.exit(1);
 
 	const _out2 = read_files(target_path + '\\outsourcing\\');
 	console.log('read_files (2) (meta):', _out2["meta"]);
 	if (local_verbose) console.log('read_files (2) (data):', _out2["data"]);
 
+	let stringified2 = JSON.stringify(_out2["data"], null, "\t");
+	await fs.writeFileSync(path.resolve(target_path + '\\merged\\_legacy2.json'), stringified2, {encoding: 'utf8'}, (err) => err && console.error(err));
+
+	const convert2 = convert(_out2["data"]);
+	console.log('convert (2):', convert1);
+
+	const remap2 = remap_fancy(convert2);
+	console.log('remap (2):', remap2);
+
 	//sorted_json = JSON.dumps(_out2, sort_keys = true)
-	var stringified = JSON.stringify(_out2["data"], null, "\t");
-	await fs.writeFileSync(path.resolve(target_path +  + '\\..\\merged\\_data.json'), stringified, {encoding: 'utf8'}, (err) => err && console.error(err));
+	stringified2 = JSON.stringify(remap2, null, "\t");
+	await fs.writeFileSync(path.resolve(target_path + '\\merged\\_fancy2.json'), stringified2, {encoding: 'utf8'}, (err) => err && console.error(err));
 
 	//for (let project_id in _out2["data"]) {
 	//	fs.appendFile(path.resolve(target_path +  + '\\..\\merged\\_data.json'), JSON.stringify({project_id: _out2["data"][project_id]}, null, "\t"), {encoding: 'utf8'}, (err) => err && console.error(err));

@@ -1,0 +1,46 @@
+{
+	"0000": {
+		"name": "Space Station 13",
+		"relations": [
+			{
+				"name": "_root_",
+				"type": "pin",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "Original build.",
+		"meta": {
+			"migrated_commit": "f759e67563",
+			"added_by": "CthulhuOnIce",
+			"add_date": "2019-09-07T19:22:34Z"
+		}
+	},
+	"0001": {
+		"name": "OpenSS13",
+		"relations": [
+			{
+				"name": "Space Station 13",
+				"type": "parent",
+				"note": "",
+				"meta": {
+					"inherit_all": true,
+					"migrated_commit": "",
+					"added_by": "CthulhuOnIce",
+					"add_date": ""
+				}
+			}
+		],
+		"note": "Source Leak 2008/03.",
+		"meta": {
+			"migrated_commit": "f759e67563",
+			"added_by": "CthulhuOnIce",
+			"add_date": "2019-09-07T19:22:34Z"
+		}
+	}
+}

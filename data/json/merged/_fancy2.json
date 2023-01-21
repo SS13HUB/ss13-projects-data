@@ -1,0 +1,4952 @@
+[
+	{
+		"id": 2,
+		"name": {
+			"full": "/tg/stalker",
+			"aliases": []
+		},
+		"parent": {
+			"id": null,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 3,
+		"name": {
+			"full": "Apollo Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 4,
+		"name": {
+			"full": "BeeStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 5,
+		"name": {
+			"full": "Citadel Main",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 6,
+		"name": {
+			"full": "Fallout 13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 7,
+		"name": {
+			"full": "FTL13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 8,
+		"name": {
+			"full": "HippieStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 9,
+		"name": {
+			"full": "Horizon Station 13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 10,
+		"name": {
+			"full": "Mojave Sun",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 11,
+		"name": {
+			"full": "OracleStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 12,
+		"name": {
+			"full": "PSK Duda-37",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 13,
+		"name": {
+			"full": "Star Trek 13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 14,
+		"name": {
+			"full": "Sunset Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 15,
+		"name": {
+			"full": "Toolbox Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 16,
+		"name": {
+			"full": "WaspStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 17,
+		"name": {
+			"full": "YogStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 16,
+			"name": "/tg/Station (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 18,
+		"name": {
+			"full": "/tg/Station (AGPL)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 19,
+		"name": {
+			"full": "Archangel",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 20,
+		"name": {
+			"full": "BayStation12 (GPL)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 21,
+		"name": {
+			"full": "FacePunch Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 22,
+		"name": {
+			"full": "FreeTG Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 23,
+		"name": {
+			"full": "HippieStation (Old)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 24,
+		"name": {
+			"full": "Nanotrasen Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 25,
+		"name": {
+			"full": "Novux Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 26,
+		"name": {
+			"full": "NTStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 27,
+		"name": {
+			"full": "Pony(/Tabun/Rainbow) Station 13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 28,
+		"name": {
+			"full": "Traitor Death Match",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 29,
+		"name": {
+			"full": "Urist McStation v1",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 30,
+		"name": {
+			"full": "YogStation (Old)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 94,
+			"name": "/tg/Station (GPLv3)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 31,
+		"name": {
+			"full": "Atlas Station v2",
+			"aliases": []
+		},
+		"parent": {
+			"id": 43,
+			"name": "/vg/Station",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 32,
+		"name": {
+			"full": "Eclipse Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 102,
+			"name": "AEIOU",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 33,
+		"name": {
+			"full": "Aurora Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 44,
+			"name": "Aurora (Old)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 34,
+		"name": {
+			"full": "No Mans's Land",
+			"aliases": []
+		},
+		"parent": {
+			"id": 81,
+			"name": "Ava's Battlegrounds",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 35,
+		"name": {
+			"full": "Aurora Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 36,
+		"name": {
+			"full": "Dead Space 13 (DS13)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 37,
+		"name": {
+			"full": "Eris v2",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 38,
+		"name": {
+			"full": "Europa Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 39,
+		"name": {
+			"full": "Halo: Space Station Evolved",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 40,
+		"name": {
+			"full": "Persistence",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 41,
+		"name": {
+			"full": "Polaris",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 42,
+		"name": {
+			"full": "Rebay (mix of Bay, Luna, TG)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 43,
+		"name": {
+			"full": "SCP-13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 45,
+			"name": "BayStation12 (AGPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "quardbreak",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 44,
+		"name": {
+			"full": "Urist McStation v2",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edit: Gesugao-san",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 45,
+		"name": {
+			"full": "/vg/Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 46,
+		"name": {
+			"full": "Aurora (Old)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 47,
+		"name": {
+			"full": "BayStation12 (AGPL)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 48,
+		"name": {
+			"full": "BestRP",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 49,
+		"name": {
+			"full": "Colonial Marines (CM)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 50,
+		"name": {
+			"full": "Interbay",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edit: Orange",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 51,
+		"name": {
+			"full": "Paradise",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 52,
+		"name": {
+			"full": "RocketStation42",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 53,
+		"name": {
+			"full": "Tau Ceti",
+			"aliases": []
+		},
+		"parent": {
+			"id": 18,
+			"name": "BayStation12 (GPL)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 54,
+		"name": {
+			"full": "AuStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 2,
+			"name": "BeeStation",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 55,
+		"name": {
+			"full": "NSV13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 2,
+			"name": "BeeStation",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "qwertyquerty",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 56,
+		"name": {
+			"full": "Unbound Travels",
+			"aliases": []
+		},
+		"parent": {
+			"id": 2,
+			"name": "BeeStation",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "BlueNexus",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "BlueNexus",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 57,
+		"name": {
+			"full": "White Sands",
+			"aliases": []
+		},
+		"parent": {
+			"id": 105,
+			"name": "Boomer Station",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "BlueNexus",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edit: comradef191",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 58,
+		"name": {
+			"full": "InterStation-Two",
+			"aliases": []
+		},
+		"parent": {
+			"id": 65,
+			"name": "CEV Eris",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CEV Eris",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 59,
+		"name": {
+			"full": "NEV Northern Light",
+			"aliases": []
+		},
+		"parent": {
+			"id": 65,
+			"name": "CEV Eris",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CEV Eris",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "drexample",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 60,
+		"name": {
+			"full": "Soujurn Statio",
+			"aliases": []
+		},
+		"parent": {
+			"id": 65,
+			"name": "CEV Eris",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 61,
+		"name": {
+			"full": "HyperStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 3,
+			"name": "Citadel Main",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 62,
+		"name": {
+			"full": "Skyrat 13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 3,
+			"name": "Citadel Main",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 63,
+		"name": {
+			"full": "Digital Marines: Colonial Aliens (DM;CA)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 47,
+			"name": "Colonial Marines (CM)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 64,
+		"name": {
+			"full": "TerraGov Marine Corps (TGMC)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 101,
+			"name": "Digital Marines: Colonial Aliens (DM;CA)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 65,
+		"name": {
+			"full": "Goonstation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 86,
+			"name": "Donut Station",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edited: Gesugao-san",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 66,
+		"name": {
+			"full": "Aliens Isolation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 35,
+			"name": "Eris v2",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 67,
+		"name": {
+			"full": "CEV Eris",
+			"aliases": []
+		},
+		"parent": {
+			"id": 35,
+			"name": "Eris v2",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 68,
+		"name": {
+			"full": "Corporate Mercenar(-y/-ies)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 19,
+			"name": "FacePunch Station",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 69,
+		"name": {
+			"full": "Desert Rose",
+			"aliases": []
+		},
+		"parent": {
+			"id": 4,
+			"name": "Fallout 13",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 70,
+		"name": {
+			"full": "FTL13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 108,
+			"name": "FTL13 (Old)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 71,
+		"name": {
+			"full": "BayStation12 (Pre-r4407)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 73,
+			"name": "Goonstation (2009 Public SVN)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "comradef191",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edited: Gesugao-san",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "comradef191",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 72,
+		"name": {
+			"full": "Goonstation (2020 Release)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 74,
+			"name": "Goonstation (2016 Release)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 73,
+		"name": {
+			"full": "T/Goonstation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 74,
+			"name": "Goonstation (2016 Release)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 74,
+		"name": {
+			"full": "BeeStation Clover",
+			"aliases": []
+		},
+		"parent": {
+			"id": 75,
+			"name": "Goonstation (Open Source)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 75,
+		"name": {
+			"full": "Goonstation (2009 Public SVN)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 63,
+			"name": "Goonstation",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edited: Gesugao-san",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "comradef191",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 76,
+		"name": {
+			"full": "Goonstation (2016 Release)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 63,
+			"name": "Goonstation",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 77,
+		"name": {
+			"full": "Goonstation (Open Source)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 63,
+			"name": "Goonstation",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 78,
+		"name": {
+			"full": "Revision 4407 (r4407)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 63,
+			"name": "Goonstation",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 79,
+		"name": {
+			"full": "HippieStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 21,
+			"name": "HippieStation (Old)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 80,
+		"name": {
+			"full": "Atlas Station v1",
+			"aliases": []
+		},
+		"parent": {
+			"id": 77,
+			"name": "HippieStation",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 81,
+		"name": {
+			"full": "Cadia Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 48,
+			"name": "Interbay",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 82,
+		"name": {
+			"full": "KaiserBay",
+			"aliases": []
+		},
+		"parent": {
+			"id": 48,
+			"name": "Interbay",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 83,
+		"name": {
+			"full": "Ava's Battlegrounds",
+			"aliases": []
+		},
+		"parent": {
+			"id": 56,
+			"name": "InterStation-Two",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 84,
+		"name": {
+			"full": "Civilization 13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 83,
+			"name": "Lebensraum",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 85,
+		"name": {
+			"full": "Lebensraum",
+			"aliases": []
+		},
+		"parent": {
+			"id": 32,
+			"name": "No Mans's Land",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 86,
+		"name": {
+			"full": "D20 Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 24,
+			"name": "NTStation",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 87,
+		"name": {
+			"full": "BayStation12 (OpenSS13, pre Goon)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 87,
+			"name": "OpenSS13",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edited: Gesugao-san",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 88,
+		"name": {
+			"full": "Donut Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 87,
+			"name": "OpenSS13",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 89,
+		"name": {
+			"full": "OpenSS13",
+			"aliases": []
+		},
+		"parent": {
+			"id": "___INSERT_ME_1___",
+			"name": "Original «SS13» \n(Pre-open)",
+			"details": {
+				"type": "parent",
+				"note": "Note1",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edited: Gesugao-san",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 90,
+		"name": {
+			"full": "Persistence SS13 (Old)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 49,
+			"name": "Paradise",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 91,
+		"name": {
+			"full": "Persistence",
+			"aliases": []
+		},
+		"parent": {
+			"id": 88,
+			"name": "Persistence SS13 (Old)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 92,
+		"name": {
+			"full": "V.O.R.E. Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 39,
+			"name": "Polaris",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 93,
+		"name": {
+			"full": "Virgo",
+			"aliases": []
+		},
+		"parent": {
+			"id": 39,
+			"name": "Polaris",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 94,
+		"name": {
+			"full": "World Server",
+			"aliases": []
+		},
+		"parent": {
+			"id": 39,
+			"name": "Polaris",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 95,
+		"name": {
+			"full": "Eris v1",
+			"aliases": []
+		},
+		"parent": {
+			"id": 40,
+			"name": "Rebay (mix of Bay, Luna, TG)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 96,
+		"name": {
+			"full": "/tg/Station (GPLv3)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 76,
+			"name": "Revision 4407 (r4407)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edited: Gesugao-san",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 97,
+		"name": {
+			"full": "BayStation12 (Luna)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 76,
+			"name": "Revision 4407 (r4407)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 98,
+		"name": {
+			"full": "D2K5",
+			"aliases": []
+		},
+		"parent": {
+			"id": 76,
+			"name": "Revision 4407 (r4407)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 99,
+		"name": {
+			"full": "Mars Station 42",
+			"aliases": []
+		},
+		"parent": {
+			"id": 76,
+			"name": "Revision 4407 (r4407)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 100,
+		"name": {
+			"full": "Deep Space 13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 11,
+			"name": "Star Trek 13",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 101,
+		"name": {
+			"full": "Winter Contingency",
+			"aliases": []
+		},
+		"parent": {
+			"id": 62,
+			"name": "TerraGov Marine Corps (TGMC)",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Gesugao-san",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Gesugao-san",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 102,
+		"name": {
+			"full": "Aphelion Project",
+			"aliases": []
+		},
+		"parent": {
+			"id": 54,
+			"name": "Unbound Travels",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "BlueNexus",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "BlueNexus",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 103,
+		"name": {
+			"full": "Digital Marines: Colonial Aliens (DM;CA)",
+			"aliases": []
+		},
+		"parent": {
+			"id": "___INSERT_ME_1___",
+			"name": "United Kingdom of Soviet Station 13",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "Void",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Void",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 104,
+		"name": {
+			"full": "AEIOU",
+			"aliases": []
+		},
+		"parent": {
+			"id": 90,
+			"name": "V.O.R.E. Station",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 105,
+		"name": {
+			"full": "Citadel RP",
+			"aliases": []
+		},
+		"parent": {
+			"id": 90,
+			"name": "V.O.R.E. Station",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "Zandario",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 106,
+		"name": {
+			"full": "Yawn Wider",
+			"aliases": []
+		},
+		"parent": {
+			"id": 90,
+			"name": "V.O.R.E. Station",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 107,
+		"name": {
+			"full": "Boomer Station",
+			"aliases": []
+		},
+		"parent": {
+			"id": 14,
+			"name": "WaspStation",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 108,
+		"name": {
+			"full": "CHOMPstation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 104,
+			"name": "Yawn Wider",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 109,
+		"name": {
+			"full": "YogStation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 28,
+			"name": "YogStation (Old)",
+			"details": {
+				"type": "red",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 110,
+		"name": {
+			"full": "FTL13 (Old)",
+			"aliases": []
+		},
+		"parent": {
+			"id": 107,
+			"name": "YogStation",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "edited: quardbreak",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	},
+	{
+		"id": 111,
+		"name": {
+			"full": "Fulpstation",
+			"aliases": []
+		},
+		"parent": {
+			"id": 107,
+			"name": "YogStation",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "",
+			"added_by": "CthulhuOnIce",
+			"add_date": ""
+		}
+	}
+]
