@@ -101,17 +101,18 @@ function convert(legacy_input) {
 		}}
 	]
 	let fancy_d3_format = [];
+	let tmp_fancy = [];
 	const legacy_keys = Object.keys(legacy_input);
 	for (let i = 0; i < legacy_keys.length; i++) {
 		const legacy_project_id = legacy_keys[i];
 		const legacy_project = legacy_input[legacy_project_id];
 		console.log(legacy_project_id, legacy_project);
-		fancy_d3_format.push(...[{
+		tmp_fancy = [{
 			"id": legacy_project_id,
 			"name": legacy_project.name,
 			"parent": {
-				"id": ";___INSERT_ME_1___",
-				"name": legacy_project.relations[0].name + ";___REPLACE_ME_1___",
+				"id": "___INSERT_ME_1___",
+				"name": legacy_project.relations[0].name, // + ";___REPLACE_ME_1___",
 				"details": {
 					"type": legacy_project.relations[0].type,
 					"note": legacy_project.relations[0].note,
@@ -126,7 +127,9 @@ function convert(legacy_input) {
 				"added_by": legacy_project.meta.added_by,
 				"add_date": legacy_project.meta.add_date
 			}
-		}]);
+		}];
+		if (legacy_project_id == "0000") tmp_fancy[0].parent.name = null;
+		fancy_d3_format.push(...tmp_fancy);
 	}
 	return fancy_d3_format;
 }
