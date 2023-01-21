@@ -114,7 +114,7 @@ function convert(legacy_input) {
 				"aliases": []
 			},
 			"parent": {
-				"id": "___INSERT_ME_1___",
+				"id": null, //"___INSERT_ME_1___",
 				"name": legacy_project.relations[0].name, // + ";___REPLACE_ME_1___",
 				"details": {
 					"type": legacy_project.relations[0].type,
