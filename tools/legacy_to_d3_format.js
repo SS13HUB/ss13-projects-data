@@ -156,6 +156,7 @@ function convert(legacy_input) {
 			}
 		}];
 		if (legacy_project_id == "0000") tmp_fancy[0].parent.name = null;
+		if (tmp_fancy[0].parent.name != null) tmp_fancy[0].parent.name = tmp_fancy[0].parent.name.replaceAll(':', ';');
 		fancy_d3_format.push(...tmp_fancy);
 	}
 	return fancy_d3_format;
@@ -185,6 +186,10 @@ function remap_fancy(_fancy_input) {
 	fancy_input[0].parent.id = null;
 	return fancy_input;
 }
+
+/* function check_multiple_roots(_fancy_input) {
+	let parents =
+} */
 
 
 async function main() {

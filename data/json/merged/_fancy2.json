@@ -2982,8 +2982,8 @@
 			"aliases": []
 		},
 		"parent": {
-			"id": 101,
-			"name": "Digital Marines: Colonial Aliens (DM;CA)",
+			"id": "Space Station 13",
+			"name": "Digital Marines; Colonial Aliens (DM;CA)",
 			"details": {
 				"type": "red",
 				"note": "",
