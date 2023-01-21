@@ -18,6 +18,9 @@
 		},
 		"details": {
 			"note": "Original build.",
+			"tags": [
+				"ss13"
+			],
 			"dates": {
 				"birth": "",
 				"death": ""
@@ -63,6 +66,9 @@
 		},
 		"details": {
 			"note": "Source Leak 2008/03.",
+			"tags": [
+				"ss13"
+			],
 			"dates": {
 				"birth": "",
 				"death": ""

@@ -126,6 +126,9 @@ function convert(legacy_input) {
 			},
 			"details": {
 				"note": legacy_project.note,
+				"tags": [
+					"ss13"
+				],
 				"dates": {
 					"birth": "",
 					"death": ""
