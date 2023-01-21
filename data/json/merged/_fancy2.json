@@ -1874,7 +1874,7 @@
 	{
 		"id": 39,
 		"name": {
-			"full": "Halo: Space Station Evolved",
+			"full": "Halo; Space Station Evolved",
 			"aliases": []
 		},
 		"parent": {
@@ -3026,7 +3026,7 @@
 	{
 		"id": 63,
 		"name": {
-			"full": "Digital Marines: Colonial Aliens (DM;CA)",
+			"full": "Digital Marines; Colonial Aliens (DM;CA)",
 			"aliases": []
 		},
 		"parent": {
@@ -3078,7 +3078,7 @@
 			"aliases": []
 		},
 		"parent": {
-			"id": "Space Station 13",
+			"id": 103,
 			"name": "Digital Marines; Colonial Aliens (DM;CA)",
 			"details": {
 				"type": "red",
@@ -4278,7 +4278,7 @@
 			"aliases": []
 		},
 		"parent": {
-			"id": "Space Station 13",
+			"id": "___INSERT_ME___",
 			"name": "Original «SS13» \n(Pre-open)",
 			"details": {
 				"type": "parent",
@@ -4946,11 +4946,11 @@
 	{
 		"id": 103,
 		"name": {
-			"full": "Digital Marines: Colonial Aliens (DM;CA)",
+			"full": "Digital Marines; Colonial Aliens (DM;CA)",
 			"aliases": []
 		},
 		"parent": {
-			"id": "Space Station 13",
+			"id": "___INSERT_ME___",
 			"name": "United Kingdom of Soviet Station 13",
 			"details": {
 				"type": "parent",

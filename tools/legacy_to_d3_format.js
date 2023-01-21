@@ -114,8 +114,8 @@ function convert(legacy_input) {
 				"aliases": []
 			},
 			"parent": {
-				"id": "Space Station 13", //null, //"___INSERT_ME_1___",
-				"name": legacy_project.relations[0].name, // + ";___REPLACE_ME_1___",
+				"id": "___INSERT_ME___", //null, //"Space Station 13",
+				"name": legacy_project.relations[0].name, // + ";___REPLACE_ME___",
 				"details": {
 					"type": legacy_project.relations[0].type,
 					"note": legacy_project.relations[0].note,
@@ -156,7 +156,10 @@ function convert(legacy_input) {
 			}
 		}];
 		if (legacy_project_id == "0000") tmp_fancy[0].parent.name = null;
-		if (tmp_fancy[0].parent.name != null) tmp_fancy[0].parent.name = tmp_fancy[0].parent.name.replaceAll(':', ';');
+		if (tmp_fancy[0].parent.name != null) {
+			tmp_fancy[0].parent.name = tmp_fancy[0].parent.name.replaceAll(':', ';');
+			tmp_fancy[0].name.full = tmp_fancy[0].name.full.replaceAll(':', ';');
+		}
 		fancy_d3_format.push(...tmp_fancy);
 	}
 	return fancy_d3_format;
