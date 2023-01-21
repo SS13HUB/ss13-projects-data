@@ -1,0 +1,92 @@
+[
+	{
+		"id": 0,
+		"name": {
+			"full": "Space Station 13",
+			"aliases": []
+		},
+		"parent": {
+			"id": null,
+			"name": null,
+			"details": {
+				"type": "pin",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "Original build.",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "f759e67563",
+			"added_by": "CthulhuOnIce",
+			"add_date": "2019-09-07T19:22:34Z"
+		}
+	},
+	{
+		"id": 1,
+		"name": {
+			"full": "OpenSS13",
+			"aliases": []
+		},
+		"parent": {
+			"id": 0,
+			"name": "Space Station 13",
+			"details": {
+				"type": "parent",
+				"note": "",
+				"migrated_commit": "",
+				"added_by": "CthulhuOnIce",
+				"add_date": ""
+			}
+		},
+		"details": {
+			"note": "Source Leak 2008/03.",
+			"dates": {
+				"birth": "",
+				"death": ""
+			}
+		},
+		"social": {
+			"byond": {
+				"type": "main",
+				"url": ""
+			},
+			"discord": {
+				"type": "main",
+				"id": -1,
+				"name": {
+					"full": "",
+					"aliases": []
+				},
+				"invite": ""
+			}
+		},
+		"migration": {
+			"commit": "f759e67563",
+			"added_by": "CthulhuOnIce",
+			"add_date": "2019-09-07T19:22:34Z"
+		}
+	}
+]

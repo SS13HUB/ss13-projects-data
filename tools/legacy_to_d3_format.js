@@ -108,8 +108,11 @@ function convert(legacy_input) {
 		const legacy_project = legacy_input[legacy_project_id];
 		console.log(legacy_project_id, legacy_project);
 		tmp_fancy = [{
-			"id": legacy_project_id,
-			"name": legacy_project.name,
+			"id": parseInt(legacy_project_id),
+			"name": {
+				"full": legacy_project.name,
+				"aliases": []
+			},
 			"parent": {
 				"id": "___INSERT_ME_1___",
 				"name": legacy_project.relations[0].name, // + ";___REPLACE_ME_1___",
@@ -123,7 +126,28 @@ function convert(legacy_input) {
 			},
 			"details": {
 				"note": legacy_project.note,
-				"migrated_commit": legacy_project.meta.migrated_commit,
+				"dates": {
+					"birth": "",
+					"death": ""
+				}
+			},
+			"social": {
+				"byond": {
+					"type": "main",
+					"url": ""
+				},
+				"discord": {
+					"type": "main",
+					"id": -1,
+					"name": {
+						"full": "",
+						"aliases": []
+					},
+					"invite": ""
+				}
+			},
+			"migration": {
+				"commit": legacy_project.meta.migrated_commit,
 				"added_by": legacy_project.meta.added_by,
 				"add_date": legacy_project.meta.add_date
 			}
@@ -133,6 +157,32 @@ function convert(legacy_input) {
 	}
 	return fancy_d3_format;
 }
+
+function remap_fancy(_fancy_input) {
+	let fancy_input = _fancy_input;
+	let tmp_map = {};
+	for (let _id = 0; _id < _fancy_input.length; _id++) {
+		const name = _fancy_input[_id].name.full;
+		tmp_map[name] = _id;
+	}
+	if (local_verbose) console.log('tmp_map:', tmp_map);
+	for (const _fancy_project of _fancy_input) {
+		console.log('>', _fancy_project.name.full);
+		const tmp_keys = Object.keys(tmp_map);
+		for (let i = 0; i < tmp_keys.length; i++) {
+			const _name = tmp_keys[i];
+			const _id = tmp_map[_name];
+			if (_name == _fancy_project.parent.name) {
+				_fancy_project.parent.id = _id;
+				console.log('>>', _id, _name, ' - ok');
+				break;
+			}
+		}
+	}
+	fancy_input[0].parent.id = null;
+	return fancy_input;
+}
+
 
 async function main() {
 	console.clear();
@@ -149,8 +199,11 @@ async function main() {
 	const convert1 = convert(_out1["data"]);
 	console.log('convert (1):', convert1);
 
+	const remap1 = remap_fancy(convert1);
+	console.log('remap (1):', remap1);
+
 	var stringified = JSON.stringify(convert1, null, "\t");
-	await fs.writeFileSync(path.resolve(target_path + '\\merged\\_fancy.json'), stringified, {encoding: 'utf8'}, (err) => err && console.error(err));
+	await fs.writeFileSync(path.resolve(target_path + '\\merged\\_fancy1.json'), stringified, {encoding: 'utf8'}, (err) => err && console.error(err));
 
 
 	process.exit(1);
