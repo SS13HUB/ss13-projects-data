@@ -24,6 +24,7 @@
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
     "process": "^0.11.10",
-    "sort-json": "^2.0.1"
+    "sort-json": "^2.0.1",
+    "ts-graphviz": "^1.5.1"
   }
 }
