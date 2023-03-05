@@ -1,861 +1,861 @@
 [
 	{
-		"parrent": "/tg/stalker",
+		"parent": "/tg/stalker",
 		"name": "S.T.A.L.K.E.R.13 Origin",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Sigma",
 		"notes": "sadly added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "HotStation 13",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "Red Moon Station 13",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "whiTGreen",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/vg/Station",
+		"parent": "/vg/Station",
 		"name": "REFORGER '88",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/vg/Station",
+		"parent": "/vg/Station",
 		"name": "United Kingdom of Soviet Station 13",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Animus Station",
+		"parent": "Animus Station",
 		"name": "Black Tyranny",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Animus Station",
+		"parent": "Animus Station",
 		"name": "Chaotic Onyx",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Animus Station",
+		"parent": "Animus Station",
 		"name": "Lawful Green",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Animus Station",
+		"parent": "Animus Station",
 		"name": "White Dream",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Animus Station",
+		"parent": "Animus Station",
 		"name": "Yellow Station (old)",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Nebula",
 		"notes": "added by: quardbreak"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Second Escalation by Madmannobrain",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "Build by Orange and Matt",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "Escalation by Madmannobrain",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "FireStation",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "BayStation12 (Luna)",
+		"parent": "BayStation12 (Luna)",
 		"name": "Lifeweb",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (Luna)",
+		"parent": "BayStation12 (Luna)",
 		"name": "Phlegethon",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Black Tyranny",
+		"parent": "Black Tyranny",
 		"name": "Blue Shift",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Black Tyranny",
+		"parent": "Black Tyranny",
 		"name": "Navy Torch",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Blue Shift: Reborn",
+		"parent": "Blue Shift: Reborn",
 		"name": "Project Theta",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Blue Shift",
+		"parent": "Blue Shift",
 		"name": "Blue Shift: Reborn",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Build by Orange and Matt",
+		"parent": "Build by Orange and Matt",
 		"name": "Interbay 1.0",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Call of Flesh",
+		"parent": "Call of Flesh",
 		"name": "M.E.T.R.O.13",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Call of Flesh",
+		"parent": "Call of Flesh",
 		"name": "S.T.A.L.K.E.R.13:REMASTERED",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Call of Flesh",
+		"parent": "Call of Flesh",
 		"name": "Stalker Project",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "CEV Eris",
+		"parent": "CEV Eris",
 		"name": "4udobay\\n(malvare warning)",
 		"notes": "added by: TapKo4eB"
 	},
 	{
-		"parrent": "Chaotic Onyx",
+		"parent": "Chaotic Onyx",
 		"name": "Crimson Dragon",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Chaotic Onyx",
+		"parent": "Chaotic Onyx",
 		"name": "Eos Orbital Station",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Chaotic Onyx",
+		"parent": "Chaotic Onyx",
 		"name": "Experimental Onyx",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Chaotic Onyx",
+		"parent": "Chaotic Onyx",
 		"name": "Lawful Onyx",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Escalation by Madmannobrain",
+		"parent": "Escalation by Madmannobrain",
 		"name": "Escalation by MioMio",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Escalation by Madmannobrain",
+		"parent": "Escalation by Madmannobrain",
 		"name": "Second Escalation by Madmannobrain",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "FireStation",
+		"parent": "FireStation",
 		"name": "United Kingdom of Soviet Station 13",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Goonstation",
+		"parent": "Goonstation",
 		"name": "Animus Station",
 		"notes": "proudly added by: Void. and Gesugao-san"
 	},
 	{
-		"parrent": "Interbay 1.0",
+		"parent": "Interbay 1.0",
 		"name": "Interbay 2.0",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Interbay 2.0",
+		"parent": "Interbay 2.0",
 		"name": "Interpost: Redux",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Interbay",
+		"parent": "Interbay",
 		"name": "Cadia Station ru",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Interbay",
+		"parent": "Interbay",
 		"name": "Interpost Hague",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "InterHippie",
+		"parent": "InterHippie",
 		"name": "Interbay 1.0",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Interpost Hague",
+		"parent": "Interpost Hague",
 		"name": "InterHippie",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "KaiserBay",
+		"parent": "KaiserBay",
 		"name": "Samosbor 13",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "M.E.T.R.O.13",
+		"parent": "M.E.T.R.O.13",
 		"name": "Resident Evil 13 (old)",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Navy Torch",
+		"parent": "Navy Torch",
 		"name": "Project Theta",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Navy Torch",
+		"parent": "Navy Torch",
 		"name": "Techno Phoenix",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Paradise",
+		"parent": "Paradise",
 		"name": "ATMTA Station",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Rebay (mix of Bay, Luna, TG)",
+		"parent": "Rebay (mix of Bay, Luna, TG)",
 		"name": "BunkerStation",
 		"notes": "added by: Gesugao-san, edit: Orange"
 	},
 	{
-		"parrent": "S.T.A.L.K.E.R.13 Origin",
+		"parent": "S.T.A.L.K.E.R.13 Origin",
 		"name": "Call of Flesh",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "S.T.A.L.K.E.R.13 Origin",
+		"parent": "S.T.A.L.K.E.R.13 Origin",
 		"name": "S.T.A.L.K.E.R. 2 ",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Second Escalation by Madmannobrain",
+		"parent": "Second Escalation by Madmannobrain",
 		"name": "Metrobuild",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Second Escalation by Madmannobrain",
+		"parent": "Second Escalation by Madmannobrain",
 		"name": "Orange and BombanyTI Escalation",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Soujurn Station",
+		"parent": "Soujurn Station",
 		"name": "Navarro",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "V.O.R.E. Station",
+		"parent": "V.O.R.E. Station",
 		"name": "ARFS Dallus",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "White Dream",
+		"parent": "White Dream",
 		"name": "White Dream: New Hope",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "World Server",
+		"parent": "World Server",
 		"name": "Donnarex Project",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Yellow Station (old)",
+		"parent": "Yellow Station (old)",
 		"name": "Yellow Station",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Yellow Station",
+		"parent": "Yellow Station",
 		"name": "White Dream: New Hope",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Yellow Station",
+		"parent": "Yellow Station",
 		"name": "Yellow SCP13",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Yellow Station",
+		"parent": "Yellow Station",
 		"name": "Yellow STALKER",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "Yellow Station",
+		"parent": "Yellow Station",
 		"name": "Yellow Theta",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "/tg/stalker",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Apollo Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "BeeStation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Citadel Main",
 		"notes": "added by: Zandario"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Fallout 13",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "FTL13",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "HippieStation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Horizon Station 13",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Mojave Sun",
 		"notes": "added by: Zandario"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "OracleStation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "PSK Duda-37",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Star Trek 13",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Sunset Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "Toolbox Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "WaspStation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (AGPL)",
+		"parent": "/tg/Station (AGPL)",
 		"name": "YogStation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "/tg/Station (AGPL)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "Archangel",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "BayStation12 (GPL)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "FacePunch Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "FreeTG Station",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "HippieStation (Old)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "Nanotrasen Station",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "Novux Station",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "NTStation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "Pony(/Tabun/Rainbow) Station 13",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "Traitor Death Match",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "Urist McStation v1",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "/tg/Station (GPLv3)",
+		"parent": "/tg/Station (GPLv3)",
 		"name": "YogStation (Old)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "/vg/Station",
+		"parent": "/vg/Station",
 		"name": "Atlas Station v2",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "AEIOU",
+		"parent": "AEIOU",
 		"name": "Eclipse Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Aurora (Old)",
+		"parent": "Aurora (Old)",
 		"name": "Aurora Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Ava's Battlegrounds",
+		"parent": "Ava's Battlegrounds",
 		"name": "No Mans's Land",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Aurora Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Dead Space 13 (DS13)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Eris v2",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Europa Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Halo: Space Station Evolved",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Persistence",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Polaris",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Rebay (mix of Bay, Luna, TG)",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "SCP-13",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (AGPL)",
+		"parent": "BayStation12 (AGPL)",
 		"name": "Urist McStation v2",
 		"notes": "added by: CthulhuOnIce, edit: Gesugao-san"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "/vg/Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "Aurora (Old)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "BayStation12 (AGPL)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "BestRP",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "Colonial Marines (CM)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "Interbay",
 		"notes": "added by: CthulhuOnIce, edit: Orange"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "Paradise",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "RocketStation42",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BayStation12 (GPL)",
+		"parent": "BayStation12 (GPL)",
 		"name": "Tau Ceti",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BeeStation",
+		"parent": "BeeStation",
 		"name": "AuStation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "BeeStation",
+		"parent": "BeeStation",
 		"name": "NSV13",
 		"notes": "added by: qwertyquerty"
 	},
 	{
-		"parrent": "BestRP",
+		"parent": "BestRP",
 		"name": "Unbound Travels",
 		"notes": "added by: BlueNexus"
 	},
 	{
-		"parrent": "Boomer Station",
+		"parent": "Boomer Station",
 		"name": "White Sands",
 		"notes": "added by: CthulhuOnIce, edit: comradef191"
 	},
 	{
-		"parrent": "CEV Eris",
+		"parent": "CEV Eris",
 		"name": "InterStation-Two",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "CEV Eris",
+		"parent": "CEV Eris",
 		"name": "NEV Northern Light",
 		"notes": "added by: drexample"
 	},
 	{
-		"parrent": "CEV Eris",
+		"parent": "CEV Eris",
 		"name": "Soujurn Station",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Citadel Main",
+		"parent": "Citadel Main",
 		"name": "HyperStation",
 		"notes": "added by: Zandario"
 	},
 	{
-		"parrent": "Citadel Main",
+		"parent": "Citadel Main",
 		"name": "Skyrat 13",
 		"notes": "added by: Zandario"
 	},
 	{
-		"parrent": "Colonial Marines (CM)",
+		"parent": "Colonial Marines (CM)",
 		"name": "Digital Marines: Colonial Aliens (DM;CA)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Digital Marines: Colonial Aliens (DM;CA)",
+		"parent": "Digital Marines: Colonial Aliens (DM;CA)",
 		"name": "TerraGov Marine Corps (TGMC)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Donut Station",
+		"parent": "Donut Station",
 		"name": "Goonstation",
 		"notes": "added by: CthulhuOnIce, edited: Gesugao-san"
 	},
 	{
-		"parrent": "Eris v2",
+		"parent": "Eris v2",
 		"name": "Aliens Isolation",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Eris v2",
+		"parent": "Eris v2",
 		"name": "CEV Eris",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "FacePunch Station",
+		"parent": "FacePunch Station",
 		"name": "Corporate Mercenar(-y/-ies)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Fallout 13",
+		"parent": "Fallout 13",
 		"name": "Desert Rose",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "FTL13 (Old)",
+		"parent": "FTL13 (Old)",
 		"name": "FTL13",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Goonstation (2009 Public SVN)",
+		"parent": "Goonstation (2009 Public SVN)",
 		"name": "BayStation12 (Pre-r4407)",
 		"notes": "added by: comradef191, edited: Gesugao-san"
 	},
 	{
-		"parrent": "Goonstation (2016 Release)",
+		"parent": "Goonstation (2016 Release)",
 		"name": "Goonstation (2020 Release)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Goonstation (2016 Release)",
+		"parent": "Goonstation (2016 Release)",
 		"name": "T/Goonstation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Goonstation (Open Source)",
+		"parent": "Goonstation (Open Source)",
 		"name": "BeeStation Clover",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Goonstation",
+		"parent": "Goonstation",
 		"name": "Goonstation (2009 Public SVN)",
 		"notes": "added by: comradef191, edited: Gesugao-san"
 	},
 	{
-		"parrent": "Goonstation",
+		"parent": "Goonstation",
 		"name": "Goonstation (2016 Release)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Goonstation",
+		"parent": "Goonstation",
 		"name": "Goonstation (Open Source)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Goonstation",
+		"parent": "Goonstation",
 		"name": "Revision 4407 (r4407)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "HippieStation (Old)",
+		"parent": "HippieStation (Old)",
 		"name": "HippieStation",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "HippieStation",
+		"parent": "HippieStation",
 		"name": "Atlas Station v1",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Interbay",
+		"parent": "Interbay",
 		"name": "Cadia Station",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Interbay",
+		"parent": "Interbay",
 		"name": "KaiserBay",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "InterStation-Two",
+		"parent": "InterStation-Two",
 		"name": "Ava's Battlegrounds",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Lebensraum",
+		"parent": "Lebensraum",
 		"name": "Civilization 13",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "No Mans's Land",
+		"parent": "No Mans's Land",
 		"name": "Lebensraum",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "NTStation",
+		"parent": "NTStation",
 		"name": "D20 Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "OpenSS13",
+		"parent": "OpenSS13",
 		"name": "BayStation12 (OpenSS13, pre Goon)",
 		"notes": "added by: CthulhuOnIce, edited: Gesugao-san"
 	},
 	{
-		"parrent": "OpenSS13",
+		"parent": "OpenSS13",
 		"name": "Donut Station",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Original «SS13» \\n(Pre-open)",
+		"parent": "Original «SS13» \\n(Pre-open)",
 		"name": "OpenSS13",
 		"notes": "added by: CthulhuOnIce, edited: Gesugao-san"
 	},
 	{
-		"parrent": "Original «SS13» \\n(Pre-open)",
+		"parent": "Original «SS13» \\n(Pre-open)",
 		"name": "OpenSS13",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Paradise",
+		"parent": "Paradise",
 		"name": "Persistence SS13 (Old)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Persistence SS13 (Old)",
+		"parent": "Persistence SS13 (Old)",
 		"name": "Persistence",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Polaris",
+		"parent": "Polaris",
 		"name": "V.O.R.E. Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Polaris",
+		"parent": "Polaris",
 		"name": "Virgo",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Polaris",
+		"parent": "Polaris",
 		"name": "World Server",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Rebay (mix of Bay, Luna, TG)",
+		"parent": "Rebay (mix of Bay, Luna, TG)",
 		"name": "Eris v1",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Revision 4407 (r4407)",
+		"parent": "Revision 4407 (r4407)",
 		"name": "/tg/Station (GPLv3)",
 		"notes": "added by: CthulhuOnIce, edited: Gesugao-san"
 	},
 	{
-		"parrent": "Revision 4407 (r4407)",
+		"parent": "Revision 4407 (r4407)",
 		"name": "BayStation12 (Luna)",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Revision 4407 (r4407)",
+		"parent": "Revision 4407 (r4407)",
 		"name": "D2K5",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Revision 4407 (r4407)",
+		"parent": "Revision 4407 (r4407)",
 		"name": "Mars Station 42",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Star Trek 13",
+		"parent": "Star Trek 13",
 		"name": "Deep Space 13",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "TerraGov Marine Corps (TGMC)",
+		"parent": "TerraGov Marine Corps (TGMC)",
 		"name": "Winter Contingency",
 		"notes": "added by: Gesugao-san"
 	},
 	{
-		"parrent": "Unbound Travels",
+		"parent": "Unbound Travels",
 		"name": "Aphelion Project",
 		"notes": "added by: BlueNexus"
 	},
 	{
-		"parrent": "United Kingdom of Soviet Station 13",
+		"parent": "United Kingdom of Soviet Station 13",
 		"name": "Digital Marines: Colonial Aliens (DM;CA)",
 		"notes": "added by: Void."
 	},
 	{
-		"parrent": "V.O.R.E. Station",
+		"parent": "V.O.R.E. Station",
 		"name": "AEIOU",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "V.O.R.E. Station",
+		"parent": "V.O.R.E. Station",
 		"name": "Citadel RP",
 		"notes": "added by: Zandario"
 	},
 	{
-		"parrent": "V.O.R.E. Station",
+		"parent": "V.O.R.E. Station",
 		"name": "Yawn Wider",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "WaspStation",
+		"parent": "WaspStation",
 		"name": "Boomer Station",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "Yawn Wider",
+		"parent": "Yawn Wider",
 		"name": "CHOMPstation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "YogStation (Old)",
+		"parent": "YogStation (Old)",
 		"name": "YogStation",
 		"notes": "added by: CthulhuOnIce"
 	},
 	{
-		"parrent": "YogStation",
+		"parent": "YogStation",
 		"name": "FTL13 (Old)",
 		"notes": "added by: CthulhuOnIce, edited: quardbreak"
 	},
 	{
-		"parrent": "YogStation",
+		"parent": "YogStation",
 		"name": "Fulpstation",
 		"notes": "added by: CthulhuOnIce"
 	}
