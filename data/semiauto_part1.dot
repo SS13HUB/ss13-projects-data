@@ -1,0 +1,177 @@
+digraph G {
+	/// Edges ///
+	"/tg/stalker"                                 -> "S.T.A.L.K.E.R.13 Origin" // added by: Gesugao-san
+	"/tg/Station (AGPL)"                          -> "Sigma" // sadly added by: Gesugao-san
+	"/tg/Station (GPLv3)"                         -> "HotStation 13" // added by: Gesugao-san
+	"/tg/Station (GPLv3)"                         -> "Red Moon Station 13" // added by: Gesugao-san
+	"/tg/Station (GPLv3)"                         -> "whiTGreen" // added by: Gesugao-san
+	"/vg/Station"                                 -> "REFORGER '88" // added by: Gesugao-san
+	"/vg/Station"                                 -> "United Kingdom of Soviet Station 13" // added by: Void.
+	"Animus Station"                              -> "Black Tyranny" [color = "#a349a4"] // added by: Void.
+	"Animus Station"                              -> "Chaotic Onyx" [color = "#a349a4"] // added by: Void.
+	"Animus Station"                              -> "Lawful Green" [color = "#a349a4"] // added by: Void.
+	"Animus Station"                              -> "White Dream" [color = "#a349a4"] // added by: Void.
+	"Animus Station"                              -> "Yellow Station (old)" [color = "#a349a4"] // added by: Void.
+	"BayStation12 (AGPL)"                         -> "Nebula" // added by: quardbreak
+	"BayStation12 (AGPL)"                         -> "Second Escalation by Madmannobrain" // added by: Void.
+	"BayStation12 (GPL)"                          -> "Build by Orange and Matt" // added by: Void.
+	"BayStation12 (GPL)"                          -> "Escalation by Madmannobrain" // added by: Gesugao-san
+	"BayStation12 (GPL)"                          -> "FireStation" [label = "2012"] // added by: Void.
+	"BayStation12 (Luna)"                         -> "Lifeweb" // added by: CthulhuOnIce
+	"BayStation12 (Luna)"                         -> "Phlegethon" // added by: Gesugao-san
+	"Black Tyranny"                               -> "Blue Shift" // added by: Void.
+	"Black Tyranny"                               -> "Navy Torch" // added by: Void.
+	"Blue Shift: Reborn"                          -> "Project Theta" // added by: Void.
+	"Blue Shift"                                  -> "Blue Shift: Reborn" // added by: Void.
+	"Build by Orange and Matt"                    -> "Interbay 1.0" // added by: Void.
+	"Call of Flesh"                               -> "M.E.T.R.O.13" // added by: Void.
+	"Call of Flesh"                               -> "S.T.A.L.K.E.R.13:REMASTERED" // added by: Void.
+	"Call of Flesh"                               -> "Stalker Project" // added by: Gesugao-san
+	"CEV Eris"                                    -> "4udobay\n(malvare warning)" // added by: TapKo4eB
+	"Chaotic Onyx"                                -> "Crimson Dragon" // added by: Void.
+	"Chaotic Onyx"                                -> "Eos Orbital Station" // added by: Void.
+	"Chaotic Onyx"                                -> "Experimental Onyx" // added by: Void.
+	"Chaotic Onyx"                                -> "Lawful Onyx" // added by: Void.
+	"Escalation by Madmannobrain"                 -> "Escalation by MioMio" // added by: Void.
+	"Escalation by Madmannobrain"                 -> "Second Escalation by Madmannobrain" [color = red] // added by: Void.
+	"FireStation"                                 -> "United Kingdom of Soviet Station 13" [label = "2015"] // added by: Void.
+	"Goonstation"                                 -> "Animus Station" [label = "2010"] // proudly added by: Void. and Gesugao-san
+	"Interbay 1.0"                                -> "Interbay 2.0" // added by: Gesugao-san
+	"Interbay 2.0"                                -> "Interpost: Redux" // added by: Gesugao-san
+	"Interbay"                                    -> "Cadia Station ru" // added by: Gesugao-san
+	"Interbay"                                    -> "Interpost Hague" // added by: CthulhuOnIce
+	"InterHippie"                                 -> "Interbay 1.0" // added by: Gesugao-san
+	"Interpost Hague"                             -> "InterHippie" // added by: Gesugao-san
+	"KaiserBay"                                   -> "Samosbor 13" // added by: Gesugao-san
+	"M.E.T.R.O.13"                                -> "Resident Evil 13 (old)" // added by: Void.
+	"Navy Torch"                                  -> "Project Theta" // added by: Gesugao-san
+	"Navy Torch"                                  -> "Techno Phoenix" // added by: Gesugao-san
+	"Paradise"                                    -> "ATMTA Station" // added by: Gesugao-san
+	"Rebay (mix of Bay, Luna, TG)"                -> "BunkerStation" // added by: Gesugao-san, edit: Orange
+	"S.T.A.L.K.E.R.13 Origin"                     -> "Call of Flesh" // added by: Gesugao-san
+	"S.T.A.L.K.E.R.13 Origin"                     -> "S.T.A.L.K.E.R. 2 " // added by: Void.
+	"Second Escalation by Madmannobrain"          -> "Metrobuild" // added by: Void.
+	"Second Escalation by Madmannobrain"          -> "Orange and BombanyTI Escalation" // added by: Void.
+	"Soujurn Station"                             -> "Navarro" // added by: Gesugao-san
+	"V.O.R.E. Station"                            -> "ARFS Dallus" // added by: Gesugao-san
+	"White Dream"                                 -> "White Dream: New Hope" // added by: Gesugao-san
+	"World Server"                                -> "Donnarex Project" // added by: Gesugao-san
+	"Yellow Station (old)"                        -> "Yellow Station" // added by: Void.
+	"Yellow Station"                              -> "White Dream: New Hope" // added by: Void.
+	"Yellow Station"                              -> "Yellow SCP13" // added by: Void.
+	"Yellow Station"                              -> "Yellow STALKER" // added by: Void.
+	"Yellow Station"                              -> "Yellow Theta" // added by: Void.
+	//"S.T.A.L.K.E.R.13 Origin"                     -> "Ashen Sky" // added by: Gesugao-san
+
+	"/tg/Station (AGPL)"                          -> "/tg/stalker" // added by: Gesugao-san
+	"/tg/Station (AGPL)"                          -> "Apollo Station" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "BeeStation" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "Citadel Main" // added by: Zandario
+	"/tg/Station (AGPL)"                          -> "Fallout 13" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "FTL13" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "HippieStation" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "Horizon Station 13" // added by: Gesugao-san
+	"/tg/Station (AGPL)"                          -> "Mojave Sun" // added by: Zandario
+	"/tg/Station (AGPL)"                          -> "OracleStation" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "PSK Duda-37" // added by: Gesugao-san
+	"/tg/Station (AGPL)"                          -> "Star Trek 13" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "Sunset Station" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "Toolbox Station" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "WaspStation" // added by: CthulhuOnIce
+	"/tg/Station (AGPL)"                          -> "YogStation" // added by: CthulhuOnIce
+	"/tg/Station (GPLv3)"                         -> "/tg/Station (AGPL)" [color = red] // added by: CthulhuOnIce
+	"/tg/Station (GPLv3)"                         -> "Archangel" // added by: CthulhuOnIce
+	"/tg/Station (GPLv3)"                         -> "BayStation12 (GPL)" // added by: CthulhuOnIce
+	"/tg/Station (GPLv3)"                         -> "FacePunch Station" // added by: CthulhuOnIce
+	"/tg/Station (GPLv3)"                         -> "FreeTG Station" // added by: Gesugao-san
+	"/tg/Station (GPLv3)"                         -> "HippieStation (Old)" // added by: CthulhuOnIce
+	"/tg/Station (GPLv3)"                         -> "Nanotrasen Station" // added by: Gesugao-san
+	"/tg/Station (GPLv3)"                         -> "Novux Station" // added by: Gesugao-san
+	"/tg/Station (GPLv3)"                         -> "NTStation" // added by: CthulhuOnIce
+	"/tg/Station (GPLv3)"                         -> "Pony(/Tabun/Rainbow) Station 13" // added by: Gesugao-san
+	"/tg/Station (GPLv3)"                         -> "Traitor Death Match" // added by: CthulhuOnIce
+	"/tg/Station (GPLv3)"                         -> "Urist McStation v1" // added by: Gesugao-san
+	"/tg/Station (GPLv3)"                         -> "YogStation (Old)" // added by: CthulhuOnIce
+	"/vg/Station"                                 -> "Atlas Station v2" // added by: Gesugao-san
+	"AEIOU"                                       -> "Eclipse Station" [color = red] // added by: CthulhuOnIce
+	"Aurora (Old)"                                -> "Aurora Station" [color = red] // added by: CthulhuOnIce
+	"Ava's Battlegrounds"                         -> "No Mans's Land" // added by: CthulhuOnIce
+	"BayStation12 (AGPL)"                         -> "Aurora Station" // added by: CthulhuOnIce
+	"BayStation12 (AGPL)"                         -> "Dead Space 13 (DS13)" // added by: CthulhuOnIce
+	"BayStation12 (AGPL)"                         -> "Eris v2" // added by: Gesugao-san
+	"BayStation12 (AGPL)"                         -> "Europa Station" // added by: CthulhuOnIce
+	"BayStation12 (AGPL)"                         -> "Halo: Space Station Evolved" // added by: CthulhuOnIce
+	"BayStation12 (AGPL)"                         -> "Persistence" // added by: CthulhuOnIce
+	"BayStation12 (AGPL)"                         -> "Polaris" // added by: CthulhuOnIce
+	"BayStation12 (AGPL)"                         -> "Rebay (mix of Bay, Luna, TG)" // added by: Gesugao-san
+	"BayStation12 (AGPL)"                         -> "SCP-13" // added by: CthulhuOnIce
+	"BayStation12 (AGPL)"                         -> "Urist McStation v2" // added by: CthulhuOnIce, edit: Gesugao-san
+	"BayStation12 (GPL)"                          -> "/vg/Station" // added by: CthulhuOnIce
+	"BayStation12 (GPL)"                          -> "Aurora (Old)" // added by: CthulhuOnIce
+	"BayStation12 (GPL)"                          -> "BayStation12 (AGPL)" [color = red] // added by: CthulhuOnIce
+	"BayStation12 (GPL)"                          -> "BestRP" // added by: CthulhuOnIce
+	"BayStation12 (GPL)"                          -> "Colonial Marines (CM)" // added by: CthulhuOnIce
+	"BayStation12 (GPL)"                          -> "Interbay" // added by: CthulhuOnIce, edit: Orange
+	"BayStation12 (GPL)"                          -> "Paradise" // added by: CthulhuOnIce
+	"BayStation12 (GPL)"                          -> "RocketStation42" // added by: CthulhuOnIce
+	"BayStation12 (GPL)"                          -> "Tau Ceti" // added by: CthulhuOnIce
+	"BeeStation"                                  -> "AuStation" // added by: CthulhuOnIce
+	"BeeStation"                                  -> "NSV13" // added by: qwertyquerty
+	"BestRP"                                      -> "Unbound Travels" // added by: BlueNexus
+	"Boomer Station"                              -> "White Sands" [color = red] // added by: CthulhuOnIce, edit: comradef191
+	"CEV Eris"                                    -> "InterStation-Two" // added by: CthulhuOnIce
+	"CEV Eris"                                    -> "NEV Northern Light" // added by: drexample
+	"CEV Eris"                                    -> "Soujurn Station" // added by: Gesugao-san
+	"Citadel Main"                                -> "HyperStation" // added by: Zandario
+	"Citadel Main"                                -> "Skyrat 13" // added by: Zandario
+	"Colonial Marines (CM)"                       -> "Digital Marines: Colonial Aliens (DM;CA)" // added by: CthulhuOnIce
+	"Digital Marines: Colonial Aliens (DM;CA)"    -> "TerraGov Marine Corps (TGMC)" [color = red] // added by: CthulhuOnIce
+	"Donut Station"                               -> "Goonstation" // added by: CthulhuOnIce, edited: Gesugao-san
+	"Eris v2"                                     -> "Aliens Isolation" // added by: Gesugao-san
+	"Eris v2"                                     -> "CEV Eris" [color = red] // added by: Gesugao-san
+	"FacePunch Station"                           -> "Corporate Mercenar(-y/-ies)" // added by: CthulhuOnIce
+	"Fallout 13"                                  -> "Desert Rose" // added by: CthulhuOnIce
+	"FTL13 (Old)"                                 -> "FTL13" [color = red] // added by: CthulhuOnIce
+	"Goonstation (2009 Public SVN)"               -> "BayStation12 (Pre-r4407)" // added by: comradef191, edited: Gesugao-san
+	"Goonstation (2016 Release)"                  -> "Goonstation (2020 Release)" [color = red] // added by: CthulhuOnIce
+	"Goonstation (2016 Release)"                  -> "T/Goonstation" // added by: CthulhuOnIce
+	"Goonstation (Open Source)"                   -> "BeeStation Clover" // added by: Gesugao-san
+	"Goonstation"                                 -> "Goonstation (2009 Public SVN)" [color = red] // added by: comradef191, edited: Gesugao-san
+	"Goonstation"                                 -> "Goonstation (2016 Release)" [color = red] // added by: CthulhuOnIce
+	"Goonstation"                                 -> "Goonstation (Open Source)" [color = red] // added by: CthulhuOnIce
+	"Goonstation"                                 -> "Revision 4407 (r4407)" [color = red] // added by: CthulhuOnIce
+	"HippieStation (Old)"                         -> "HippieStation" [color = red] // added by: Gesugao-san
+	"HippieStation"                               -> "Atlas Station v1" // added by: Gesugao-san
+	"Interbay"                                    -> "Cadia Station" // added by: Gesugao-san
+	"Interbay"                                    -> "KaiserBay" // added by: Gesugao-san
+	"InterStation-Two"                            -> "Ava's Battlegrounds" // added by: CthulhuOnIce
+	"Lebensraum"                                  -> "Civilization 13" // added by: CthulhuOnIce
+	"No Mans's Land"                              -> "Lebensraum" // added by: CthulhuOnIce
+	"NTStation"                                   -> "D20 Station" // added by: CthulhuOnIce
+	"OpenSS13"                                      -> "BayStation12 (OpenSS13, pre Goon)" // added by: CthulhuOnIce, edited: Gesugao-san
+	"OpenSS13"                                      -> "Donut Station" // added by: Gesugao-san
+	"Original «SS13» \n(Pre-open)"                -> "OpenSS13" [label = "[Decompilation by Hobnob]"] // added by: CthulhuOnIce, edited: Gesugao-san
+	"Original «SS13» \n(Pre-open)"                -> "OpenSS13" [label = "[Source given to AZA by Exdav1]"] // added by: Gesugao-san
+	"Paradise"                                    -> "Persistence SS13 (Old)" // added by: CthulhuOnIce
+	"Persistence SS13 (Old)"                      -> "Persistence" [color = red] // added by: Gesugao-san
+	"Polaris"                                     -> "V.O.R.E. Station" // added by: CthulhuOnIce
+	"Polaris"                                     -> "Virgo" // added by: Gesugao-san
+	"Polaris"                                     -> "World Server" // added by: CthulhuOnIce
+	"Rebay (mix of Bay, Luna, TG)"                -> "Eris v1" // added by: Gesugao-san
+	"Revision 4407 (r4407)"                       -> "/tg/Station (GPLv3)" // added by: CthulhuOnIce, edited: Gesugao-san
+	"Revision 4407 (r4407)"                       -> "BayStation12 (Luna)" // added by: CthulhuOnIce
+	"Revision 4407 (r4407)"                       -> "D2K5" // added by: CthulhuOnIce
+	"Revision 4407 (r4407)"                       -> "Mars Station 42" // added by: CthulhuOnIce
+	"Star Trek 13"                                -> "Deep Space 13" [color = red] // added by: CthulhuOnIce
+	"TerraGov Marine Corps (TGMC)"                -> "Winter Contingency" // added by: Gesugao-san
+	"Unbound Travels"                             -> "Aphelion Project" // added by: BlueNexus
+	"United Kingdom of Soviet Station 13"         -> "Digital Marines: Colonial Aliens (DM;CA)" // added by: Void.
+	"V.O.R.E. Station"                            -> "AEIOU" // added by: CthulhuOnIce
+	"V.O.R.E. Station"                            -> "Citadel RP" // added by: Zandario
+	"V.O.R.E. Station"                            -> "Yawn Wider" // added by: CthulhuOnIce
+	"WaspStation"                                 -> "Boomer Station" [color = red] // added by: CthulhuOnIce
+	"Yawn Wider"                                  -> "CHOMPstation" // added by: CthulhuOnIce
+	"YogStation (Old)"                            -> "YogStation" [color = red] // added by: CthulhuOnIce
+	"YogStation"                                  -> "FTL13 (Old)" // added by: CthulhuOnIce, edited: quardbreak
+	"YogStation"                                  -> "Fulpstation" // added by: CthulhuOnIce
+}
